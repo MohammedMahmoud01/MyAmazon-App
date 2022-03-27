@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Controls:CustomPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:Controls="clr-namespace:Amazon.Controls"
+             xmlns:Helpers="clr-namespace:FontAwesome"
+             xmlns:Res="clr-namespace:Amazon.Resources"
+             xmlns:yummy="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"
+             x:Class="Amazon.Pages.CartPage"
+             BackgroundColor="{DynamicResource BgColor}"
+             x:Name="myCartPage">
+
+    <Controls:CustomPage.Resources>
+        <ResourceDictionary>
+
+            <DataTemplate x:Key="ExistCart">
+                <SwipeView BackgroundColor="White">
+
+                    <SwipeView.RightItems>
+                        <SwipeItems>
+                            <SwipeItem BackgroundColor="Red" Text="{Res:Translate Text=lblRemove}"
+                                      Command="{Binding BindingContext.Remove , Source={x:Reference myCartPage}}" 
+                                        CommandParameter="{Binding}"
+                                       />
+                        </SwipeItems>
+                    </SwipeView.RightItems>
+
+                    <SwipeView.LeftItems>
+                        <SwipeItems>
+                            <SwipeItem BackgroundColor="Orange" Text="{Res:Translate Text=lblSaveLater}"
+                                         Command="{Binding BindingContext.AddFavourite , Source={x:Reference myCartPage}}" 
+                                        CommandParameter="{Binding}"/>
+                        </SwipeItems>
+                    </SwipeView.LeftItems>
+
+
+                    <Grid RowSpacing="12" ColumnSpacing="12">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="auto" />
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="1*"/>
+                            <ColumnDefinition Width="2*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <Image Margin="3,3,3,3"  Aspect="Fill" HeightRequest="140" WidthRequest="100"
+                                 Source="{Binding ImageName , StringFormat='http://mohammedmahmoud-001-site1.htempurl.com/Uploads/{0}'}" />
+
+                        <StackLayout  Margin="10,15,10,0"  Grid.Column="1" HorizontalOptions="CenterAndExpand">
+                            
+                                <Label Text="{Binding ItemName}" FontSize="18" HorizontalOptions="CenterAndExpand"
+                                FontAttributes="Bold" TextColor="{DynamicResource TextCartColor}" />
+                            <StackLayout Orientation="Horizontal" Spacing="20" HorizontalOptions="CenterAndExpand">
+                                    <Label HorizontalTextAlignment="Start" 
+                                    Text="{Binding SalesPrice , StringFormat='${0}'}" TextColor="{DynamicResource TextCartColor}" />
+                                    <Label Text="{Binding SubCategoryName}" HorizontalOptions="End" />
+                                </StackLayout>
+                            
+
+                            <Grid ColumnSpacing="15" Margin="8">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="auto" />
+                                </Grid.RowDefinitions>
+
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+
+                                <Frame Grid.Column="0" Padding="5,0,5,0" >
+                                    <ImageButton WidthRequest="25" HeightRequest="25"  BackgroundColor="Transparent" Command="{Binding BindingContext.AddQty , Source={x:Reference myCartPage}}" 
+                                                              CommandParameter="{Binding}">
+                                        <ImageButton.Source>
+                                            <FontImageSource FontFamily="SolidIcon" Color="Black" Size="18"
+                                            Glyph="+"  />
+                                        </ImageButton.Source>
+                                    </ImageButton>
+                                </Frame>
+
+
+                                <Label Margin="10,0,10,0" Grid.Column="1" Text="{Binding Quantity}" HorizontalOptions="CenterAndExpand"
+                                        TextColor="{DynamicResource TextCartColor}" FontSize="15"/>
+
+
+                                <Frame Grid.Column="2" Padding="5,0,5,0" >
+                                    <ImageButton WidthRequest="25" HeightRequest="25"  BackgroundColor="Transparent"
+                                          Command="{Binding BindingContext.MinusQty , Source={x:Reference myCartPage}}" 
+                                                              CommandParameter="{Binding}"    >
+                                        <ImageButton.Source>
+                                            <FontImageSource Color="{DynamicResource TextCartColor}" FontFamily="SolidIcon" Size="18"
+                                            Glyph=""  />
+                                        </ImageButton.Source>
+                                    </ImageButton>
+                                </Frame>
+
+                            </Grid>
+                        </StackLayout>
+
+                    </Grid>
+
+                </SwipeView>
+            </DataTemplate>
+
+            <DataTemplate x:Key="vTemplate2">
+                <StackLayout Margin="5,0,5,0" VerticalOptions="Start" HorizontalOptions="CenterAndExpand">
+                    <Frame Padding="0" HasShadow="False"  HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" CornerRadius="10" HeightRequest="150" WidthRequest="150">
+                        <Image Source="{Binding ImageName, StringFormat='http://mohammedmahmoud-001-site1.htempurl.com/Uploads/{0}'}" Aspect="Fill" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"/>
+                    </Frame>
+                    <StackLayout Margin="0,8,0,0" HorizontalOptions="CenterAndExpand">
+                        <Label Text="{Binding ItemName}" TextColor="{DynamicResource TextColor}"  HorizontalOptions="CenterAndExpand"  FontSize="19" />
+                        <Label Text="{Binding SalesPrice , StringFormat='${0}'}" Margin="0,-7,0,0"  HorizontalOptions="CenterAndExpand" TextColor="{DynamicResource TextColor}"  FontSize="16"/>
+                        <StackLayout Orientation="Horizontal">
+                            <Button Text="{Res:Translate Text=lblAddToCart}"  HorizontalOptions="CenterAndExpand" Command="{Binding BindingContext.AddToCart , Source={x:Reference myCartPage}}" 
+                                        CommandParameter="{Binding}"
+                               Style="{DynamicResource BtnAddTo}" >
+                                <Button.ImageSource>
+                                    <FontImageSource Size="12" FontFamily="SolidIcon" 
+                                     Color="{DynamicResource TextColor}" Glyph="{Static Helpers:FontAwesomeIcons.CartPlus}" />
+                                </Button.ImageSource>
+                               
+                            </Button>
+                        </StackLayout>
+                    </StackLayout>
+                </StackLayout>
+            </DataTemplate>
+
+        </ResourceDictionary>
+    </Controls:CustomPage.Resources>
+
+    <Controls:CustomPage.Content>
+
+        <ScrollView VerticalScrollBarVisibility="Never">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                </Grid.RowDefinitions>
+
+                <Controls:ToolBar HasCartBar="False" HasImgBar="False" Title="{Res:Translate Text=lblCartPage}" HasBackButton="True"/>
+
+                <StackLayout Margin="0,50,0,0" Grid.Row="1" HorizontalOptions="CenterAndExpand" 
+                             VerticalOptions="CenterAndExpand"
+                             IsVisible="{Binding NoCartVisible}">
+
+                    <Image  HeightRequest="100" WidthRequest="100"  HorizontalOptions="CenterAndExpand" 
+                             VerticalOptions="CenterAndExpand"
+                          Aspect="Fill" >
+
+                        <Image.Source>
+                            <FontImageSource FontFamily="SolidIcon" Color="{DynamicResource TextColor}" Glyph="" />
+                        </Image.Source>
+                    </Image>
+
+                    <Label Style="{DynamicResource lblHeaderText}" Text="{Res:Translate Text=lblEmptyCart}" />
+                    
+                 
+                </StackLayout>
+
+                <Grid Grid.Row="2" RowSpacing="35" IsVisible="{Binding CartVisible}">
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                    </Grid.RowDefinitions>
+
+                    <yummy:PancakeView HeightRequest="130"  Grid.Row="0" Margin="15,0,15,0"
+                               Style="{DynamicResource ServiceBox}">
+                        <Grid RowSpacing="15" Margin="10,0,10,0">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="auto" />
+                                <RowDefinition Height="auto" />
+                            </Grid.RowDefinitions>
+
+                            <StackLayout Margin="0,15,0,0" Spacing="15" Orientation="Horizontal" Padding="15,0,15,0">
+                                <Label HorizontalOptions="Start" FontSize="18" TextColor="{DynamicResource CartPriceColor}"
+                                       FontFamily="RobotoBold" FontAttributes="Bold" Text="{Res:Translate Text=lblTotalPrice}"/>
+                                <Label  FontSize="18" 
+                                     TextColor="{DynamicResource CartPriceColor}"  FontFamily="RobotoBold" FontAttributes="Bold" Text="{Binding TotalPrice}"/>
+                            </StackLayout>
+
+                            <Button Grid.Row="1" Text="{Res:Translate Text=lblBuyNow}" 
+                                    Style="{DynamicResource BtnAddTo}"
+                                 Command="{Binding BuyNow}" >
+                              
+                            </Button>
+                        </Grid>
+                    </yummy:PancakeView>
+
+                    <StackLayout Grid.Row="1" Spacing="15" Orientation="Vertical" BindableLayout.ItemsSource="{Binding lstCartItems}" 
+                          BindableLayout.ItemTemplate="{StaticResource ExistCart}">
+
+
+                    </StackLayout>
+
+
+                    <Grid Grid.Row="2" RowSpacing="20" Margin="20,20,20,0" HorizontalOptions="FillAndExpand" VerticalOptions="Start">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                        </Grid.RowDefinitions>
+                        
+                        <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" >
+                            <Label Text="{Res:Translate Text=lblRelatedItems}" TextColor="{DynamicResource TextColor}"  />
+                        </StackLayout>
+
+                        <ScrollView Grid.Row="1" Orientation="Horizontal"  VerticalOptions="Start" VerticalScrollBarVisibility="Never" HorizontalScrollBarVisibility="Never">
+                            <StackLayout BindableLayout.ItemsSource="{Binding RelatedItems1}" Orientation="Horizontal"
+                                     BindableLayout.ItemTemplate="{StaticResource vTemplate2}"  
+                                         Spacing="20" VerticalOptions="Start">
+
+                            </StackLayout>
+                        </ScrollView>
+                    </Grid>
+
+
+                    <Grid Grid.Row="3" RowSpacing="20" Margin="20,20,20,10" HorizontalOptions="FillAndExpand" VerticalOptions="Start">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                        </Grid.RowDefinitions>
+                        
+                        <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" >
+                            <Label Text="{Res:Translate Text=lblRelatedItems}" TextColor="{DynamicResource TextColor}"  />
+                        </StackLayout>
+
+                        <ScrollView Grid.Row="1" Orientation="Horizontal" VerticalOptions="Start" VerticalScrollBarVisibility="Never" HorizontalScrollBarVisibility="Never">
+                            <StackLayout BindableLayout.ItemsSource="{Binding RelatedItems2}" Orientation="Horizontal"
+                                     BindableLayout.ItemTemplate="{StaticResource vTemplate2}"  
+                                         Spacing="20" VerticalOptions="Start">
+
+                            </StackLayout>
+                        </ScrollView>
+                    </Grid>
+
+
+                </Grid>
+            </Grid>
+        </ScrollView>
+     
+    </Controls:CustomPage.Content>
+</Controls:CustomPage>

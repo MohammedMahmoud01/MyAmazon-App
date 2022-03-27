@@ -1,0 +1,796 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Controls:CustomPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:Controls="clr-namespace:Amazon.Controls" 
+             xmlns:Helpers="clr-namespace:FontAwesome"       
+             xmlns:Res="clr-namespace:Amazon.Resources"
+             xmlns:navigationdrawer="clr-namespace:Syncfusion.SfNavigationDrawer.XForms;assembly=Syncfusion.SfNavigationDrawer.XForms"
+             x:Class="Amazon.Pages.MainPage"
+             xmlns:yummy="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"
+             BackgroundColor="{DynamicResource BgColor}"
+             x:Name="myMainPage">
+
+    <Controls:CustomPage.Resources>
+        <ResourceDictionary>
+
+            <DataTemplate x:Key="vTemplate1">
+
+                <yummy:PancakeView Padding="2">
+                    <yummy:PancakeView.Border>
+                        <yummy:Border Thickness="2">
+                            <yummy:Border.GradientStops>
+                                <yummy:GradientStopCollection>
+                                    <yummy:GradientStop Color="#E4B889" Offset="0.2" />
+                                    <yummy:GradientStop Color="#AD88BC" Offset="1" />
+                                </yummy:GradientStopCollection>
+                            </yummy:Border.GradientStops>
+                        </yummy:Border>
+                    </yummy:PancakeView.Border>
+                    <StackLayout Margin="7,10,5,5" VerticalOptions="Start" Padding="5,0,0,10">
+                        <Frame Padding="0" HasShadow="True"  HorizontalOptions="Start" VerticalOptions="Start" CornerRadius="10" HeightRequest="150" WidthRequest="165">
+                            <Image Source="{Binding ImageName, StringFormat='http://mohammedmahmoud-001-site1.htempurl.com/Uploads/{0}'}" Aspect="Fill" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"/>
+                        </Frame>
+                        <Frame BackgroundColor="{DynamicResource BigFrameTemplate1}" Padding="0,0,0,10">
+                            <StackLayout>
+                                <Label HorizontalOptions="CenterAndExpand" Text="{Binding ItemName}" TextColor="{DynamicResource TextColor}"  
+                               FontSize="18" VerticalTextAlignment="Center" />
+
+                                <Frame BackgroundColor="{DynamicResource SmallFrameTemplate1}" Padding="5">
+                                    <StackLayout>
+                                        <Label Text="{Binding SalesPrice , StringFormat='${0}'}"  TextColor="{DynamicResource TextColor}"  
+                                VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" FontSize="18"/>
+                                    </StackLayout>
+                                </Frame>
+
+                                <StackLayout Orientation="Horizontal" Margin="0,5,0,0" Padding="10,0,10,0">
+                                    <ImageButton HorizontalOptions="StartAndExpand" Command="{Binding BindingContext.AddToFavourite , Source={x:Reference myMainPage}}" 
+                                        CommandParameter="{Binding}">
+                                        <ImageButton.Source>
+                                            <FontImageSource Glyph="{Static Helpers:FontAwesomeIcons.Star}"
+                                              Color="{DynamicResource TextColor}" FontFamily="SolidIcon" Size="18" />
+                                        </ImageButton.Source>
+                                    </ImageButton>
+                                    <ImageButton HorizontalOptions="End"  Command="{Binding BindingContext.AddToCart , Source={x:Reference myMainPage}}" 
+                                        CommandParameter="{Binding}">
+                                        <ImageButton.Source>
+                                            <FontImageSource Glyph="" Color="{DynamicResource TextColor}"    
+                                                   FontFamily="SolidIcon" Size="18" />
+                                        </ImageButton.Source>
+                                    </ImageButton>
+                                </StackLayout>
+                            </StackLayout>
+                        </Frame>
+                        <StackLayout.GestureRecognizers>
+                            <TapGestureRecognizer Command="{Binding BindingContext.SelectedItem , Source={x:Reference myMainPage}}" 
+                                        CommandParameter="{Binding}"/>
+                        </StackLayout.GestureRecognizers>
+                    </StackLayout>
+                </yummy:PancakeView>
+            </DataTemplate>
+
+            <DataTemplate x:Key="vTemplate2">
+                <StackLayout Margin="5,0,5,0" VerticalOptions="Start" Spacing="15">
+                    <Frame Padding="0" HasShadow="False"  HorizontalOptions="Start" VerticalOptions="Start" CornerRadius="10" HeightRequest="150" WidthRequest="150">
+                        <Image Source="{Binding ImageName, StringFormat='http://mohammedmahmoud-001-site1.htempurl.com/Uploads/{0}'}" Aspect="Fill" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"/>
+                    </Frame>
+                    <StackLayout Orientation="Horizontal">
+                        <Label Text="{Binding ItemName}" TextColor="{DynamicResource TextColor}"  
+                             HorizontalOptions="StartAndExpand"  FontSize="19" />
+
+                        <ImageButton HorizontalOptions="End" Command="{Binding BindingContext.AddToFavourite , Source={x:Reference myMainPage}}" 
+                                        CommandParameter="{Binding}">
+                            <ImageButton.Source>
+                                <FontImageSource Glyph="{Static Helpers:FontAwesomeIcons.Star}"
+                                              Color="{DynamicResource TextColor}" FontFamily="SolidIcon" Size="18" >
+                                </FontImageSource>
+                            </ImageButton.Source>
+                        </ImageButton>
+                    </StackLayout>
+                    <Label Text="{Binding SalesPrice , StringFormat='${0}'}" Margin="0,-7,0,0" TextColor="{DynamicResource TextColor}"  FontSize="16"/>
+
+                    <Button Text="{Res:Translate Text=lblAddToCart}"  Style="{DynamicResource BtnAddTo}"   
+                            HorizontalOptions="CenterAndExpand"
+                            Command="{Binding BindingContext.AddToCart , Source={x:Reference myMainPage}}" 
+                                        CommandParameter="{Binding}">
+                        <Button.ImageSource>
+                            <FontImageSource Size="12" FontFamily="SolidIcon" 
+                                     Color="{DynamicResource TextColor}" Glyph="{Static Helpers:FontAwesomeIcons.CartPlus}" />
+                        </Button.ImageSource>
+                     
+                    </Button>
+
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Command="{Binding BindingContext.SelectedItem , Source={x:Reference myMainPage}}" 
+                                        CommandParameter="{Binding}"/>
+                    </StackLayout.GestureRecognizers>
+                </StackLayout>
+            </DataTemplate>
+
+        </ResourceDictionary>
+    </Controls:CustomPage.Resources>
+
+    <navigationdrawer:SfNavigationDrawer x:Name="navigationDrawer" 
+                                         DrawerWidth ="260" 
+                                         DrawerHeaderHeight="160">
+
+
+        <navigationdrawer:SfNavigationDrawer.ContentView>
+
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="60"/>
+                    <RowDefinition Height="auto"/>
+                </Grid.RowDefinitions>
+                <Controls:ToolBar HasCartBar="True" Grid.Row="0" CartTitle="{Binding CartNum}" 
+                                  HasBackButton="False" MenuClick="ClkNavDrawer"/>
+
+                <ScrollView Grid.Row="1" VerticalScrollBarVisibility="Never">
+                    <Grid RowSpacing="15">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="250" />
+                            <RowDefinition Height="auto" />
+                            <RowDefinition Height="auto" />
+                            <RowDefinition Height="auto" />
+                            <RowDefinition Height="*" />
+                        </Grid.RowDefinitions>
+
+                        <CarouselView x:Name="cvBanners"  ItemsSource="{Binding lstSlider}"  VerticalOptions="StartAndExpand" 
+                       IndicatorView="Indicator"  HorizontalOptions="FillAndExpand" >
+
+                            <CarouselView.ItemTemplate>
+                                <DataTemplate>
+                                    <Grid HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+                                        <Image Source="{Binding SliderImage, StringFormat='http://mohammedmahmoud-001-site1.htempurl.com/Uploads/{0}'}" Aspect="Fill" HorizontalOptions="FillAndExpand"/>
+                                        <StackLayout Margin="30,20,0,0" Spacing="15" HorizontalOptions="FillAndExpand" VerticalOptions="Center">
+                                            <Label Text="{Binding Descreption}" TextColor="#225AA9" FontSize="12" FontFamily="RobotoThin"/>
+                                            <StackLayout>
+                                                <Label Text="{Binding LongDescreption}" TextColor="#225AA9" FontSize="35" FontFamily="PlayFairBold"/>
+                                            </StackLayout>
+                                        </StackLayout>
+                                    </Grid>
+                                </DataTemplate>
+                            </CarouselView.ItemTemplate>
+
+                        </CarouselView>
+
+                        <IndicatorView HeightRequest="20" Grid.Row="1" TranslationY="-10" x:Name="Indicator" IndicatorsShape="Circle"
+                         IndicatorColor="LightGray" SelectedIndicatorColor="Orange" />
+
+                        <Grid Padding="10,0,10,0" Grid.Row="2" ColumnDefinitions="*, Auto" RowSpacing="15" ColumnSpacing="15">
+
+                            <yummy:PancakeView Style="{DynamicResource SearchBar}" >
+
+                                <StackLayout Spacing="15" Orientation="Horizontal">
+
+                                    <StackLayout HorizontalOptions="StartAndExpand" Orientation="Horizontal" Margin="0,0,15,0">
+                                        <Image   VerticalOptions="Start" HeightRequest="20" WidthRequest="20">
+
+                                            <Image.Source>
+                                                <FontImageSource Size="12" FontFamily="SolidIcon" Glyph="" Color="{DynamicResource ToolBarColor}" />
+                                            </Image.Source>
+                                        </Image>
+
+                                        <Label Text="{Res:Translate Text=lblSearch}" TextColor="#2D2942" FontSize="15" Opacity="0.5" VerticalOptions="Center" 
+                                             />
+                                    </StackLayout>
+
+                                </StackLayout>
+                            </yummy:PancakeView>
+
+                            <Grid Grid.Column="1" HorizontalOptions="End">
+                                <Ellipse HeightRequest="42" WidthRequest="42" Fill="{DynamicResource GrayLighter}"/>
+                                <Image  VerticalOptions="Center" HeightRequest="20" WidthRequest="20">
+
+                                    <Image.Source>
+                                        <FontImageSource FontFamily="SolidIcon" Glyph="" Color="{DynamicResource ToolBarColor}" />
+                                    </Image.Source>
+                                </Image>
+                            </Grid>
+
+                            <Grid.GestureRecognizers>
+                                <TapGestureRecognizer Command="{Binding SearchBar}" />
+                            </Grid.GestureRecognizers>
+                        </Grid>
+
+                        <Grid Grid.Row="3" RowSpacing="30" HorizontalOptions="FillAndExpand" VerticalOptions="StartAndExpand">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="300"/>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="*"/>
+                            </Grid.RowDefinitions>
+
+
+                            <Grid  RowSpacing="20" Margin="20,0,20,0" HorizontalOptions="FillAndExpand" VerticalOptions="Start">
+
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto"/>
+                                    <RowDefinition Height="Auto"/>
+                                </Grid.RowDefinitions>
+
+                                <Label Text="{Res:Translate Text=lblNewProducts2}" HorizontalOptions="StartAndExpand"
+                                       TextColor="{DynamicResource TextColor}"  FontSize="20" />
+                                <Label Text="{Res:Translate Text=lblShowAllProducts}" 
+                                       VerticalOptions="Center"  Opacity="0.5" HorizontalOptions="End" Margin="0,0,30,0">
+
+                                    <Label.GestureRecognizers>
+                                        <TapGestureRecognizer  Command="{Binding ShowItemsList}" CommandParameter="New"/>
+                                    </Label.GestureRecognizers>
+
+                                </Label>
+
+                                <ScrollView Style="{StaticResource mainScroll}" Grid.Row="1">
+                                    <StackLayout BindableLayout.ItemsSource="{Binding homeModel.lstNewItems}" Orientation="Horizontal"
+                                     BindableLayout.ItemTemplate="{StaticResource vTemplate1}"
+                                         Spacing="20" VerticalOptions="Start">
+                                    </StackLayout>
+                                </ScrollView>
+                            </Grid>
+
+                            <Grid Grid.Row="1" ColumnSpacing="10" Margin="20,10,20,10" RowSpacing="10">
+
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="auto" />
+                                    <RowDefinition Height="auto" />
+                                </Grid.RowDefinitions>
+
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+
+                                <Button Text="{Res:Translate Text=lblPopularProducts2}" 
+                                        Style="{DynamicResource BtnAddTo}"
+                                        Command="{Binding ShowItemsList}" CommandParameter="Popular">
+                                   
+                                </Button>
+
+                                <Button Grid.Column="1" Text="{Res:Translate Text= lblAppleProducts}" 
+                                        Style="{DynamicResource BtnAddTo}"
+                                        Command="{Binding ShowItemsList}" CommandParameter="Apple">
+                                    
+                                </Button>
+
+                                <Button Grid.Row="1" Grid.Column="0" Text="{Res:Translate Text= lblSamsungProducts}" 
+                                         Style="{DynamicResource BtnAddTo}" 
+                                        Command="{Binding ShowItemsList}" CommandParameter="Samsung">
+                                   
+                                </Button>
+
+                                <Button Grid.Row="1" Grid.Column="1" Text="{Res:Translate Text= lblXiaomiProducts}" 
+                                         Style="{DynamicResource BtnAddTo}" Command="{Binding ShowItemsList}" CommandParameter="Xiaomi">
+                                   
+                                </Button>
+
+
+                            </Grid>
+
+
+                            <ScrollView Grid.Row="2"  HorizontalOptions="FillAndExpand" Style="{StaticResource mainScroll}">
+                                <StackLayout Margin="20,0,20,0" Orientation="Horizontal" BindableLayout.ItemsSource="{Binding Banners}">
+                                    <BindableLayout.ItemTemplate>
+                                        <DataTemplate>
+                                            <Grid HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+                                                <Image Source="{Binding Image}" Aspect="Fill" WidthRequest="330"  HorizontalOptions="FillAndExpand"/>
+                                                <StackLayout Margin="30,20,0,0" Spacing="15" HorizontalOptions="FillAndExpand" VerticalOptions="Center">
+                                                    <Label Text="{Binding Heading}" TextColor="White" FontSize="12" FontFamily="RobotoThin"/>
+                                                    <BoxView BackgroundColor="White" HorizontalOptions="Start" VerticalOptions="Start" HeightRequest="1" WidthRequest="50"/>
+                                                    <StackLayout>
+                                                        <Label Text="{Binding Message}" TextColor="White" FontSize="35" FontFamily="PlayFairBold"/>
+                                                        <Label Text="{Binding Caption}" TextColor="White" FontSize="12" FontFamily="RobotoLight"/>
+                                                    </StackLayout>
+                                                </StackLayout>
+                                            </Grid>
+                                        </DataTemplate>
+                                    </BindableLayout.ItemTemplate>
+                                </StackLayout>
+                            </ScrollView>
+
+
+                            <Grid Grid.Row="3" RowSpacing="20" Margin="20,0,20,0" HorizontalOptions="FillAndExpand" VerticalOptions="Start">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto"/>
+                                    <RowDefinition Height="Auto"/>
+                                </Grid.RowDefinitions>
+                                <Label Text="{Res:Translate Text=lblAppleProducts}" HorizontalOptions="StartAndExpand"
+                                       TextColor="{DynamicResource TextColor}"  FontSize="20" />
+                                <Label Text="{Res:Translate Text=lblShowAllProducts}"   VerticalOptions="Center" Opacity="0.5" HorizontalOptions="End" Margin="0,0,30,0">
+                                    <Label.GestureRecognizers>
+                                        <TapGestureRecognizer  Command="{Binding ShowItemsList}" CommandParameter="Apple"/>
+                                    </Label.GestureRecognizers>
+                                </Label>
+                                <ScrollView  Grid.Row="1" Style="{StaticResource mainScroll}">
+                                    <StackLayout BindableLayout.ItemsSource="{Binding homeModel2.lstApple}" Orientation="Horizontal"
+                                     BindableLayout.ItemTemplate="{StaticResource vTemplate2}"  
+                                         Spacing="20" VerticalOptions="Start">
+
+                                    </StackLayout>
+                                </ScrollView>
+                            </Grid>
+
+                            <Grid Grid.Row="4" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+                                <Image Source="tvBanner.jpg"  HeightRequest="120" Aspect="Fill" HorizontalOptions="FillAndExpand"/>
+                                <StackLayout Margin="0,20,10,0" Spacing="15" HorizontalOptions="EndAndExpand" VerticalOptions="Center">
+                                    <Label Text="Tvs" TextColor="White" FontSize="12" FontFamily="RobotoThin"/>
+                                    <BoxView BackgroundColor="White" HorizontalOptions="Start" VerticalOptions="Start" HeightRequest="1" WidthRequest="50"/>
+                                    <StackLayout>
+                                        <Label Text="Explore Tvs" TextColor="White" FontSize="25" FontFamily="PlayFairBold"/>
+                                        <Label Text="" TextColor="White" FontSize="12" FontFamily="RobotoLight"/>
+                                    </StackLayout>
+                                </StackLayout>
+                            </Grid>
+
+                            <Grid Grid.Row="5" RowSpacing="20" Margin="20,0,20,0" HorizontalOptions="FillAndExpand" VerticalOptions="Start">
+
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto"/>
+                                    <RowDefinition Height="Auto"/>
+                                </Grid.RowDefinitions>
+
+                                <Label Text="{Res:Translate Text=lblXiaomiProducts}" HorizontalOptions="StartAndExpand"
+                                       TextColor="{DynamicResource TextColor}"  FontSize="20" />
+                                <Label Text="{Res:Translate Text=lblShowAllProducts}"  VerticalOptions="Center" 
+                               Opacity="0.5" HorizontalOptions="End" Margin="0,0,30,0">
+
+                                    <Label.GestureRecognizers>
+                                        <TapGestureRecognizer  Command="{Binding ShowItemsList}" CommandParameter="Xiaomi"/>
+                                    </Label.GestureRecognizers>
+
+                                </Label>
+
+                                <ScrollView  Grid.Row="1" Style="{StaticResource mainScroll}">
+                                    <StackLayout BindableLayout.ItemsSource="{Binding homeModel2.lstXiaomi}" Orientation="Horizontal"
+                                     BindableLayout.ItemTemplate="{StaticResource vTemplate1}"
+                                         Spacing="20" VerticalOptions="Start">
+                                    </StackLayout>
+                                </ScrollView>
+                            </Grid>
+
+                            <Grid Grid.Row="6" RowSpacing="20" Margin="20,0,20,0" HorizontalOptions="FillAndExpand" VerticalOptions="Start">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto"/>
+                                    <RowDefinition Height="Auto"/>
+                                </Grid.RowDefinitions>
+                                <Label Text="{Res:Translate Text=lblPopularProducts2}" HorizontalOptions="StartAndExpand"
+                                       TextColor="{DynamicResource TextColor}"  FontSize="20"/>
+                                <Label Text="{Res:Translate Text=lblShowAllProducts}"  VerticalOptions="Center" Opacity="0.5" HorizontalOptions="End" Margin="0,0,30,0">
+                                    <Label.GestureRecognizers>
+                                        <TapGestureRecognizer  Command="{Binding ShowItemsList}" CommandParameter="Popular"/>
+                                    </Label.GestureRecognizers>
+                                </Label>
+                                <ScrollView Style="{StaticResource mainScroll}" Grid.Row="1"  >
+                                    <StackLayout Orientation="Horizontal" BindableLayout.ItemsSource="{Binding homeModel.lstPopularItems}" Spacing="15" VerticalOptions="Start">
+                                        <BindableLayout.ItemTemplate>
+                                            <DataTemplate>
+                                                <StackLayout Orientation="Horizontal" Spacing="10" VerticalOptions="Start" Margin="15,0,15,0">
+                                                    <Frame Padding="0" HasShadow="False" HorizontalOptions="Start" VerticalOptions="Start" CornerRadius="10" HeightRequest="190" WidthRequest="130">
+                                                        <Image Source="{Binding ImageName, StringFormat='http://mohammedmahmoud-001-site1.htempurl.com/Uploads/{0}'}" Aspect="Fill" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"/>
+                                                    </Frame>
+                                                    <StackLayout Margin="0,12,0,0" HorizontalOptions="CenterAndExpand">
+                                                        <Label Text="{Binding ItemName}" HorizontalOptions="CenterAndExpand"
+                                                               TextColor="{DynamicResource TextColor}"  FontSize="18"
+                                                       />
+                                                        <Label Text="{Binding SalesPrice , StringFormat='${0}'}" HorizontalOptions="CenterAndExpand" />
+                                                        <StackLayout  Margin="0,15,0,0" HorizontalOptions="CenterAndExpand">
+                                                            <Button HorizontalOptions="CenterAndExpand" Text="{Res:Translate Text=lblAddToCart}" 
+                                                                     Style="{DynamicResource BtnAddTo}"  
+                                                                    Command="{Binding BindingContext.AddToCart , Source={x:Reference myMainPage}}" 
+                                                                    CommandParameter="{Binding}">
+                                                                <Button.ImageSource>
+                                                                    <FontImageSource Size="12" FontFamily="SolidIcon" 
+                                                                            Color="{DynamicResource TextColor}" Glyph="{Static Helpers:FontAwesomeIcons.CartPlus}" />
+                                                                </Button.ImageSource>
+                                                              
+                                                            </Button>
+                                                            <Button HorizontalOptions="CenterAndExpand" Margin="0,5,0,0" Text="{Res:Translate Text=lblAddToFavourite}" 
+                                                                     Style="{DynamicResource BtnAddTo}"
+                                                                        Command="{Binding BindingContext.AddToFavourite , Source={x:Reference myMainPage}}" 
+                                                                    CommandParameter="{Binding}">
+                                                                <Button.ImageSource>
+                                                                    <FontImageSource Size="12" FontFamily="SolidIcon" 
+                                                                            Color="{DynamicResource TextColor}" 
+                                                                                      Glyph="{Static Helpers:FontAwesomeIcons.Star}" />
+                                                                </Button.ImageSource>
+                                                               
+                                                            </Button>
+
+                                                        </StackLayout>
+                                                    </StackLayout>
+                                                    <StackLayout.GestureRecognizers>
+                                                        <TapGestureRecognizer Command="{Binding BindingContext.SelectedItem , Source={x:Reference myMainPage}}" 
+                                                        CommandParameter="{Binding}"/>
+                                                    </StackLayout.GestureRecognizers>
+                                                </StackLayout>
+                                            </DataTemplate>
+                                        </BindableLayout.ItemTemplate>
+                                    </StackLayout>
+                                </ScrollView>
+                            </Grid>
+
+                            <Grid Grid.Row="7" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+                                <Image Source="mobileBanner.jpg" HeightRequest="80" Aspect="Fill" HorizontalOptions="FillAndExpand"/>
+                                <StackLayout Margin="30,20,0,0" Spacing="15" HorizontalOptions="FillAndExpand" VerticalOptions="Center">
+                                    <Label Text="This is Heading" TextColor="White" FontSize="12" FontFamily="RobotoThin"/>
+                                    <BoxView BackgroundColor="White" HorizontalOptions="Start" VerticalOptions="Start" HeightRequest="1" WidthRequest="50"/>
+                                    <StackLayout>
+                                        <Label Text="This is Caption" TextColor="White" FontSize="35" FontFamily="PlayFairBold"/>
+                                        <Label Text="" TextColor="White" FontSize="12" FontFamily="RobotoLight"/>
+                                    </StackLayout>
+                                </StackLayout>
+                            </Grid>
+
+                            <Grid Grid.Row="8" RowSpacing="20" Margin="20,0,20,0" HorizontalOptions="FillAndExpand" VerticalOptions="Start">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto"/>
+                                    <RowDefinition Height="Auto"/>
+                                </Grid.RowDefinitions>
+                                <Label Text="{Res:Translate Text=lblSamsungProducts}" HorizontalOptions="StartAndExpand"
+                                       TextColor="{DynamicResource TextColor}"  FontSize="20" />
+                                <Label Text="{Res:Translate Text=lblShowAllProducts}"  VerticalOptions="Center" Opacity="0.5" HorizontalOptions="End" Margin="0,0,30,0">
+                                    <Label.GestureRecognizers>
+                                        <TapGestureRecognizer  Command="{Binding ShowItemsList}" CommandParameter="Samsung"/>
+                                    </Label.GestureRecognizers>
+                                </Label>
+                                <ScrollView Style="{StaticResource mainScroll}" Grid.Row="1"  >
+                                    <StackLayout BindableLayout.ItemsSource="{Binding homeModel2.lstSamsung}" Orientation="Horizontal"  
+                                         Spacing="20" VerticalOptions="Start">
+
+                                        <BindableLayout.ItemTemplate>
+                                            <DataTemplate>
+                                                <StackLayout Margin="5,0,5,0" VerticalOptions="Start" Spacing="15">
+                                                    <Frame Padding="0" HasShadow="False"  HorizontalOptions="Start" VerticalOptions="Start" CornerRadius="10" HeightRequest="165" WidthRequest="200">
+                                                        <Image Source="{Binding ImageName, StringFormat='http://mohammedmahmoud-001-site1.htempurl.com/Uploads/{0}'}" Aspect="Fill" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"/>
+                                                    </Frame>
+                                                    <StackLayout Orientation="Horizontal">
+                                                        <Label Text="{Binding ItemName}" TextColor="{DynamicResource TextColor}"  
+                                                              HorizontalOptions="StartAndExpand"  FontSize="19" />
+
+                                                        <ImageButton HorizontalOptions="End" Command="{Binding BindingContext.AddToFavourite , Source={x:Reference myMainPage}}" 
+                                            CommandParameter="{Binding}">
+                                                            <ImageButton.Source>
+                                                                <FontImageSource Glyph="{Static Helpers:FontAwesomeIcons.Star}"
+                                                  Color="{DynamicResource TextColor}" FontFamily="SolidIcon" Size="18" />
+                                                            </ImageButton.Source>
+                                                        </ImageButton>
+                                                    </StackLayout>
+                                                    <Label Text="{Binding SalesPrice , StringFormat='${0}'}" Margin="0,-7,0,0" TextColor="{DynamicResource TextColor}"  FontSize="16"/>
+
+                                                    <Button HorizontalOptions="CenterAndExpand" Text="{Res:Translate Text=lblAddToCart}" 
+                                                            Style="{DynamicResource BtnAddTo}"
+                                                            Command="{Binding BindingContext.AddToCart , Source={x:Reference myMainPage}}" 
+                                                            CommandParameter="{Binding}">
+                                                        <Button.ImageSource>
+                                                            <FontImageSource Size="12" FontFamily="SolidIcon" 
+                                                                 Color="{DynamicResource TextColor}" Glyph="{Static Helpers:FontAwesomeIcons.CartPlus}" />
+                                                        </Button.ImageSource>
+                                                     
+                                                    </Button>
+
+                                                    <StackLayout.GestureRecognizers>
+                                                        <TapGestureRecognizer Command="{Binding BindingContext.SelectedItem , Source={x:Reference myMainPage}}" 
+                                                                CommandParameter="{Binding}"/>
+                                                    </StackLayout.GestureRecognizers>
+                                                </StackLayout>
+
+                                            </DataTemplate>
+                                        </BindableLayout.ItemTemplate>
+                                    </StackLayout>
+                                </ScrollView>
+                            </Grid>
+
+                            <Grid Grid.Row="9" RowSpacing="20" Margin="20,0,20,0" HorizontalOptions="FillAndExpand" VerticalOptions="Start">
+
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto"/>
+                                    <RowDefinition Height="Auto"/>
+                                </Grid.RowDefinitions>
+
+                                <Label Text="{Res:Translate Text=lblDiscoutPhones}" TextColor="{DynamicResource TextColor}"  HorizontalOptions="CenterAndExpand" FontSize="20" />
+
+                                <CollectionView Grid.Row="1" ItemsSource="{Binding homeModel.lstItemsDiscount}" 
+                                         VerticalOptions="Start">
+
+                                    <CollectionView.ItemsLayout>
+                                        <GridItemsLayout Orientation="Vertical"  
+                                            VerticalItemSpacing="15" HorizontalItemSpacing="15" >
+
+                                            <GridItemsLayout.Span>
+                                                <OnIdiom x:TypeArguments="x:Int32" Phone="2" Tablet="4"></OnIdiom>
+                                            </GridItemsLayout.Span>
+                                            
+                                        </GridItemsLayout>
+                                    </CollectionView.ItemsLayout>
+
+                                    <CollectionView.ItemTemplate>
+                                        <DataTemplate>
+                                            <yummy:PancakeView Padding="2">
+                                                <yummy:PancakeView.Border>
+                                                    <yummy:Border Thickness="2">
+                                                        <yummy:Border.GradientStops>
+                                                            <yummy:GradientStopCollection>
+                                                                <yummy:GradientStop Color="#E4B889" Offset="0.2" />
+                                                                <yummy:GradientStop Color="#AD88BC" Offset="1" />
+                                                            </yummy:GradientStopCollection>
+                                                        </yummy:Border.GradientStops>
+                                                    </yummy:Border>
+                                                </yummy:PancakeView.Border>
+                                                <StackLayout Spacing="10" Padding="2">
+                                                    <Frame  Padding="0" HasShadow="False"   HorizontalOptions="CenterAndExpand" VerticalOptions="Start" CornerRadius="10" HeightRequest="150" WidthRequest="165">
+                                                        <Image Source="{Binding ImageName, StringFormat='http://mohammedmahmoud-001-site1.htempurl.com/Uploads/{0}'}" Aspect="Fill" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"/>
+                                                    </Frame>
+                                                    <Frame  BackgroundColor="{DynamicResource BigFrameTemplate1}" Padding="0,0,0,10">
+                                                        <StackLayout>
+                                                            <Label HorizontalOptions="CenterAndExpand" Text="{Binding ItemName}" TextColor="{DynamicResource TextColor}"  
+                                                        FontSize="18" VerticalTextAlignment="Center" />
+
+                                                            <Frame BackgroundColor="{DynamicResource SmallFrameTemplate1}" Padding="5">
+                                                                <StackLayout>
+                                                                    <Label Text="{Binding SalesPrice , StringFormat='${0}'}"  TextColor="{DynamicResource TextColor}"  TextDecorations="Strikethrough"
+                                                                VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" FontSize="18"/>
+                                                                    <Label Text="{Binding DiscountPrice , StringFormat='${0}'}"  TextColor="{DynamicResource TextColor}"  
+                                                                VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" FontSize="18"/>
+                                                                </StackLayout>
+                                                            </Frame>
+
+                                                            <StackLayout Orientation="Horizontal" Margin="0,5,0,0" Padding="10,0,10,0">
+
+                                                                <ImageButton HorizontalOptions="StartAndExpand" Command="{Binding BindingContext.AddToFavourite2 , Source={x:Reference myMainPage}}" 
+                                                                    CommandParameter="{Binding}">
+                                                                    <ImageButton.Source>
+                                                                        <FontImageSource Glyph="{Static Helpers:FontAwesomeIcons.Star}"
+                                                                        Color="{DynamicResource TextColor}" FontFamily="SolidIcon" Size="18" />
+                                                                    </ImageButton.Source>
+                                                                </ImageButton>
+
+                                                                <ImageButton HorizontalOptions="End"  Command="{Binding BindingContext.AddToCart2 , Source={x:Reference myMainPage}}" 
+                                                                    CommandParameter="{Binding}">
+                                                                    <ImageButton.Source>
+                                                                        <FontImageSource Glyph=""  Color="{DynamicResource TextColor}"
+                                                                    FontFamily="SolidIcon" Size="18"  />
+                                                                    </ImageButton.Source>
+                                                                </ImageButton>
+
+                                                            </StackLayout>
+                                                        </StackLayout>
+                                                    </Frame>
+                                                </StackLayout>
+                                            </yummy:PancakeView>
+                                        </DataTemplate>
+                                    </CollectionView.ItemTemplate>
+
+                                </CollectionView>
+
+                            </Grid>
+
+                            <ScrollView Grid.Row="10" Orientation="Vertical" HorizontalOptions="FillAndExpand" VerticalOptions="Start" VerticalScrollBarVisibility="Never">
+                                <StackLayout Margin="20,0,20,0" Orientation="Vertical" Spacing="20"
+                                             BindableLayout.ItemsSource="{Binding lstCategories}">
+                                    <BindableLayout.ItemTemplate>
+                                        <DataTemplate>
+                                            <Grid HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+                                                <Image Source="{Binding ImageSubCatName, StringFormat='http://mohammedmahmoud-001-site1.htempurl.com/Uploads/{0}'}" 
+                                                       HeightRequest="110" Aspect="AspectFill" HorizontalOptions="FillAndExpand"/>
+                                                <StackLayout Margin="10,20,10,0" Spacing="15" Orientation="Vertical"
+                                                             HorizontalOptions="FillAndExpand" VerticalOptions="Center">
+
+                                                    <Label Text="{Binding SubCategoryName}" HorizontalOptions="Start" 
+                                                           TextColor="Black" FontSize="30" FontFamily="PlayFairBold"/>
+
+                                                    <Label Text="{Binding CategoryName}" HorizontalOptions="Start"
+                                                           TextColor="Black" FontSize="16" FontFamily="RobotoBold"/>
+
+                                                </StackLayout>
+                                                <Grid.GestureRecognizers>
+                                                    <TapGestureRecognizer Command="{Binding BindingContext.ShowItemsList , Source={x:Reference myMainPage}}" 
+                                                        CommandParameter="{Binding SubCategoryName}" />
+                                                </Grid.GestureRecognizers>
+                                            </Grid>
+                                        </DataTemplate>
+                                    </BindableLayout.ItemTemplate>
+                                </StackLayout>
+                            </ScrollView>
+                            
+                        </Grid>
+
+                    </Grid>
+                </ScrollView>
+            </Grid>
+
+
+        </navigationdrawer:SfNavigationDrawer.ContentView>
+
+        <navigationdrawer:SfNavigationDrawer.DrawerHeaderView>
+            <Grid BackgroundColor="{DynamicResource HeaderDrawerColor}">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="80"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                </Grid.RowDefinitions>
+                <Image
+                       HeightRequest="50" 
+                       WidthRequest="50"
+                       Margin="0,10,0,0" 
+                       VerticalOptions="Center" 
+                       HorizontalOptions="Center">
+
+                    <Image.Source>
+                        <FontImageSource FontFamily="SolidIcon" Color="Orange" 
+                                         Glyph="" Size="30" />
+                    </Image.Source>
+                </Image>
+                <Label HorizontalOptions="CenterAndExpand" Grid.Row="1" Text="{Res:Translate Text=lblWelcome}" 
+                       FontSize="20"  TextColor="White"></Label>
+                <StackLayout IsVisible="{Binding IsSignOut}" HorizontalOptions="CenterAndExpand" Grid.Row="2"
+                             Orientation="Horizontal" Spacing="5">
+                    <Label Text="{Binding userLogin.FirstName}" 
+                       Grid.Row="1" 
+                       HorizontalTextAlignment="Center" 
+                       HorizontalOptions="Center" 
+                       FontSize="20" 
+                       TextColor="White"/>
+                    <Label Text="{Binding userLogin.LastName}" 
+                       Grid.Row="1" 
+                       HorizontalTextAlignment="Center" 
+                       HorizontalOptions="Center" 
+                       FontSize="20" 
+                       TextColor="White"/>
+                </StackLayout>
+            </Grid>
+        </navigationdrawer:SfNavigationDrawer.DrawerHeaderView>
+
+        <navigationdrawer:SfNavigationDrawer.DrawerContentView>
+            <ScrollView VerticalScrollBarVisibility="Never" BackgroundColor="{DynamicResource NavDrawerColor}">
+                <Grid Style="{DynamicResource GridNavDrawer}" >
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                    </Grid.RowDefinitions>
+
+                    <StackLayout Orientation="Horizontal" Grid.Row="0" Spacing="10" HeightRequest="40">
+                        <StackLayout.GestureRecognizers>
+                            <TapGestureRecognizer Command="{Binding SearchBar}" />
+                        </StackLayout.GestureRecognizers>
+                        <Image Style="{StaticResource NavImages}">
+                            <Image.Source>
+                                <FontImageSource Color="{DynamicResource TextColor}" FontFamily="SolidIcon" Glyph="" />
+                            </Image.Source>
+                        </Image>
+                        <Label Style="{DynamicResource lblNavDrawer}" Text="{Res:Translate Text=lblAllProducts}" />
+                    </StackLayout>
+
+                    <StackLayout Orientation="Horizontal" Grid.Row="1" Spacing="10" HeightRequest="50">
+                        <StackLayout.GestureRecognizers>
+                            <TapGestureRecognizer Command="{Binding ShowItemsList}"  CommandParameter="Popular" />
+                        </StackLayout.GestureRecognizers>
+                        <Image Style="{StaticResource NavImages}">
+                            <Image.Source>
+                                <FontImageSource Color="{DynamicResource TextColor}" FontFamily="SolidIcon" Glyph="" />
+                            </Image.Source>
+                        </Image>
+                        <Label Style="{DynamicResource lblNavDrawer}" Text="{Res:Translate Text=lblPopularProducts}"/>
+                    </StackLayout>
+
+                    <StackLayout Orientation="Horizontal" Grid.Row="2" Spacing="10" HeightRequest="40">
+                        <StackLayout.GestureRecognizers>
+                            <TapGestureRecognizer Command="{Binding ShowItemsList}" CommandParameter="New" />
+                        </StackLayout.GestureRecognizers>
+
+                        <Image Style="{StaticResource NavImages}">
+                            <Image.Source>
+                                <FontImageSource Color="{DynamicResource TextColor}" FontFamily="SolidIcon" Glyph="" />
+                            </Image.Source>
+                        </Image>
+                        <Label Style="{DynamicResource lblNavDrawer}" Text="{Res:Translate Text=lblNewProducts}" />
+                    </StackLayout>
+
+                    <BoxView Grid.Row="3"  Style="{DynamicResource DefaultBoxView}" />
+
+                    <StackLayout Grid.Row="4" Spacing="10" Orientation="Horizontal" HeightRequest="50">
+                        <StackLayout.GestureRecognizers>
+                            <TapGestureRecognizer Command="{Binding NavToCart}" />
+                        </StackLayout.GestureRecognizers>
+                        <Image Style="{StaticResource NavImages}">
+                            <Image.Source>
+                                <FontImageSource FontFamily="SolidIcon" Color="{DynamicResource TextColor}"
+                                  Glyph="{x:Static Helpers:FontAwesomeIcons.ShoppingCart}"/>
+                            </Image.Source>
+                        </Image>
+                        <Label Style="{DynamicResource lblNavDrawer}" Text="{Res:Translate Text=lblCartProducts}" />
+                    </StackLayout>
+
+                    <StackLayout Orientation="Horizontal" Spacing="10" Grid.Row="5" HeightRequest="50">
+                        <StackLayout.GestureRecognizers>
+                            <TapGestureRecognizer Command="{Binding NavToFavourite}" />
+                        </StackLayout.GestureRecognizers>
+
+                        <Image Style="{StaticResource NavImages}">
+                            <Image.Source>
+                                <FontImageSource Color="{DynamicResource TextColor}" FontFamily="SolidIcon" 
+                                Glyph="{x:Static Helpers:FontAwesomeIcons.Star}"/>
+                            </Image.Source>
+                        </Image>
+                        <Label Style="{DynamicResource lblNavDrawer}" Text="{Res:Translate Text=lblFavouriteProducts}" />
+                    </StackLayout>
+
+                    <StackLayout Orientation="Horizontal" Spacing="10" Grid.Row="6" HeightRequest="40">
+                        <StackLayout.GestureRecognizers>
+                            <TapGestureRecognizer Command="{Binding NavToSettings}" />
+                        </StackLayout.GestureRecognizers>
+                        <Image  Style="{StaticResource NavImages}">
+                            <Image.Source>
+                                <FontImageSource Color="{DynamicResource TextColor}" FontFamily="SolidIcon" 
+                              Glyph=""  />
+                            </Image.Source>
+                        </Image>
+                        <Label Style="{DynamicResource lblNavDrawer}" Text="{Res:Translate Text=lblSettings}" />
+                    </StackLayout>
+
+
+                    <Grid Grid.Row="7" RowSpacing="10" ColumnSpacing="10" IsVisible="{Binding IsLogged}" >
+
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="auto"/>
+                        </Grid.RowDefinitions>
+
+                        <StackLayout Orientation="Horizontal" HeightRequest="40" Grid.Row="0">
+                            <StackLayout.GestureRecognizers>
+                                <TapGestureRecognizer Command="{Binding NavToLogin}" />
+                            </StackLayout.GestureRecognizers>
+                            <Image  Style="{StaticResource NavImages}">
+                                <Image.Source>
+                                    <FontImageSource Color="{DynamicResource TextColor}" FontFamily="SolidIcon" 
+                              Glyph="{x:Static Helpers:FontAwesomeIcons.SignInAlt}"  />
+                                </Image.Source>
+                            </Image>
+                            <Label Style="{DynamicResource lblNavDrawer}" Text="{Res:Translate Text=lblSignIn}" />
+                        </StackLayout>
+
+                        <StackLayout Orientation="Horizontal" HeightRequest="40" Grid.Row="1">
+                            <StackLayout.GestureRecognizers>
+                                <TapGestureRecognizer Command="{Binding NavToRegister}" />
+                            </StackLayout.GestureRecognizers>
+                            <Image  Style="{StaticResource NavImages}">
+                                <Image.Source>
+                                    <FontImageSource Color="{DynamicResource TextColor}" FontFamily="SolidIcon" 
+                              Glyph="{x:Static Helpers:FontAwesomeIcons.Registered}"  />
+                                </Image.Source>
+                            </Image>
+                            <Label Style="{DynamicResource lblNavDrawer}" Text="{Res:Translate Text=lblRegister}" />
+                        </StackLayout>
+                    </Grid>
+
+                    <StackLayout Spacing="10" Orientation="Horizontal" Grid.Row="8" HeightRequest="40" IsVisible="{Binding IsSignOut}">
+                        <StackLayout.GestureRecognizers>
+                            <TapGestureRecognizer Command="{Binding SignOut}" />
+                        </StackLayout.GestureRecognizers>
+                        <Image  Style="{StaticResource NavImages}">
+                            <Image.Source>
+                                <FontImageSource Color="{DynamicResource TextColor}" FontFamily="SolidIcon" 
+                              Glyph="{x:Static Helpers:FontAwesomeIcons.SignOutAlt}"  />
+                            </Image.Source>
+                        </Image>
+                        <Label Style="{DynamicResource lblNavDrawer}" Text="{Res:Translate Text=lblSignOut}" />
+                    </StackLayout>
+                </Grid>
+            </ScrollView>
+        </navigationdrawer:SfNavigationDrawer.DrawerContentView>
+
+    </navigationdrawer:SfNavigationDrawer>
+
+</Controls:CustomPage>

@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c09a1eeb-a01f-40ff-b0cd-68de5bf0cd42": {
+      "ProjectGuid": "c09a1eeb-a01f-40ff-b0cd-68de5bf0cd42",
+      "DisplayName": "Amazon",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "faca93c1-5620-4db7-98be-5a544c12f7c5": {
+      "ProjectGuid": "faca93c1-5620-4db7-98be-5a544c12f7c5",
+      "DisplayName": "Amazon.Android",
+      "ColorIndex": 1
+    },
+    "ab74c6d8-4d02-4840-94c8-935c78b33435": {
+      "ProjectGuid": "ab74c6d8-4d02-4840-94c8-935c78b33435",
+      "DisplayName": "Amazon.iOS",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

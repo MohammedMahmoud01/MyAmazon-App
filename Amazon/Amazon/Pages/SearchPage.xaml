@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Controls:CustomPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:Res="clr-namespace:Amazon.Resources"
+             xmlns:Controls="clr-namespace:Amazon.Controls" xmlns:yummy="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"
+             x:Class="Amazon.Pages.SearchPage"
+             xmlns:Helpers="clr-namespace:FontAwesome" xmlns:xct="http://xamarin.com/schemas/2020/toolkit"
+             BackgroundColor="{DynamicResource BgColor}"
+             x:Name="mySearchPage">
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto" />
+            </Grid.RowDefinitions>
+
+            <yummy:PancakeView Style="{StaticResource HeaderStyle}" >
+                <Grid Style="{StaticResource GridToolBar}">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto" />
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="60" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+
+                    <ImageButton Margin="0,8,0,0" Style="{StaticResource imgToolBar}"
+                             Grid.Column="0" Command="{Binding NavBack}">
+                        <ImageButton.Source>
+                            <FontImageSource FontFamily="SolidIcon" 
+                      Glyph="{x:Static Helpers:FontAwesomeIcons.ArrowLeft}"  >
+                            </FontImageSource>
+                        </ImageButton.Source>
+                    </ImageButton>
+
+                    <yummy:PancakeView BackgroundColor="{DynamicResource GrayLighter}" Margin="0,10,5,0" HeightRequest="35" Grid.Column="1" CornerRadius="20" >
+
+                        <SearchBar TextColor="Black" Placeholder="{Res:Translate Text=lblSearch}" 
+                             Text="{Binding TxtSearch}"  PlaceholderColor="Black" 
+                                   HorizontalOptions="FillAndExpand"  
+                                   SearchCommand="{Binding SearchWithText}">
+                            <SearchBar.Behaviors>
+                                <xct:EventToCommandBehavior EventName="TextChanged"
+                                                    Command="{Binding SearchWithText}">
+
+                                </xct:EventToCommandBehavior>
+                            </SearchBar.Behaviors>
+                        </SearchBar>
+                    </yummy:PancakeView>
+
+
+                  
+
+                </Grid>
+
+            </yummy:PancakeView>
+
+            <Grid Grid.Row="1"  VerticalOptions="StartAndExpand">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                </Grid.RowDefinitions>
+                <Label Margin="0,5,0,5" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"
+                      Text="{Res:Translate Text=lblSearchPage}" FontSize="18" />
+                
+                <RefreshView Grid.Row="1" IsRefreshing="{Binding IsRefresh}">
+                    <RefreshView.Behaviors>
+                        <xct:EventToCommandBehavior EventName="Refreshing"
+                                                    Command="{Binding ReFresh}">
+
+                        </xct:EventToCommandBehavior>
+                    </RefreshView.Behaviors>
+                
+                    <CollectionView HorizontalOptions="FillAndExpand" ItemsSource="{Binding lstFilterItems}">
+
+                    <CollectionView.ItemsLayout>
+                        <LinearItemsLayout Orientation="Vertical" ItemSpacing="10" />
+                    </CollectionView.ItemsLayout>
+
+                    <CollectionView.ItemTemplate>
+                        <DataTemplate>
+                            <Grid RowSpacing="10" ColumnSpacing="10"  Padding="10,10,10,0">
+
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="auto"  />
+                                    <RowDefinition Height="2"  />
+                                </Grid.RowDefinitions>
+
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="1*" />
+                                        <ColumnDefinition Width="1.5*" />
+                                    </Grid.ColumnDefinitions>
+
+                                <Frame  HorizontalOptions="FillAndExpand" Grid.RowSpan="2"   VerticalOptions="Start" Padding="4"
+                                           CornerRadius="10" BackgroundColor="LightGray" WidthRequest="170" HeightRequest="190">
+                                    <Image Source="{Binding ImageName, StringFormat='http://mohammedmahmoud-001-site1.htempurl.com/Uploads/{0}'}" Aspect="Fill" />
+                                </Frame>
+
+                                <StackLayout HorizontalOptions="CenterAndExpand" Grid.RowSpan="2"  Grid.Column="1" Margin="0,15,10,0">
+                                    <Label Text="{Binding ItemName}" TextColor="{DynamicResource TextColor}" HorizontalOptions="CenterAndExpand" />
+                                    <Label Text="{Binding SalesPrice , StringFormat='${0}'}" TextColor="{DynamicResource TextColor}" HorizontalOptions="CenterAndExpand" />
+                                    <Label Text="{Binding CategoryName}" TextColor="{DynamicResource TextColor}" HorizontalOptions="CenterAndExpand" />
+                                    <Label Text="{Binding SubCategoryName}" TextColor="{DynamicResource TextColor}" HorizontalOptions="CenterAndExpand"/>
+
+                                    <StackLayout Orientation="Horizontal"  HorizontalOptions="CenterAndExpand">
+                                            <ImageButton>
+                                                <ImageButton.Source>
+                                                    <FontImageSource Color="{DynamicResource TextColor}" FontFamily="SolidIcon" Size="18"  Glyph="" />
+                                                </ImageButton.Source>
+                                            </ImageButton>
+
+                                            <ImageButton>
+                                                <ImageButton.Source>
+                                                    <FontImageSource Color="{DynamicResource TextColor}" FontFamily="SolidIcon" Size="18"  Glyph="" />
+                                                </ImageButton.Source>
+                                            </ImageButton>
+
+                                            <ImageButton>
+                                                <ImageButton.Source>
+                                                    <FontImageSource Color="{DynamicResource TextColor}" FontFamily="SolidIcon" Size="18"  Glyph="" />
+                                                </ImageButton.Source>
+                                            </ImageButton>
+
+                                            <ImageButton>
+                                                <ImageButton.Source>
+                                                    <FontImageSource Color="{DynamicResource TextColor}" FontFamily="SolidIcon" Size="18"  Glyph="" />
+                                                </ImageButton.Source>
+                                            </ImageButton>
+
+                                            <ImageButton>
+                                                <ImageButton.Source>
+                                                    <FontImageSource Color="{DynamicResource TextColor}" FontFamily="SolidIcon" Size="18"  Glyph="{Static Helpers:FontAwesomeIcons.StarHalf}" />
+                                                </ImageButton.Source>
+                                            </ImageButton>
+                                        </StackLayout>
+
+                                    </StackLayout>
+
+                                <BoxView Grid.Row="2" Grid.ColumnSpan="2"
+                                             Style="{DynamicResource DefaultBoxView}" />
+
+                                <Grid.GestureRecognizers>
+                                        <TapGestureRecognizer Command="{Binding BindingContext.SelectedItem , Source={x:Reference mySearchPage}}" 
+                                                    CommandParameter="{Binding}"/>
+                                </Grid.GestureRecognizers>
+
+                                </Grid>
+
+                        </DataTemplate>
+                    </CollectionView.ItemTemplate>
+
+                </CollectionView>
+                </RefreshView>
+            </Grid>
+            
+        </Grid>
+    </ContentPage.Content>
+</Controls:CustomPage>

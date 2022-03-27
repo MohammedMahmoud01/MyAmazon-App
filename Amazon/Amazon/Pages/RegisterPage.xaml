@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Controls:CustomPage xmlns="http://xamarin.com/schemas/2014/forms"
+                        xmlns:Controls="clr-namespace:Amazon.Controls" 
+                     xmlns:Res="clr-namespace:Amazon.Resources"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:xct="http://xamarin.com/schemas/2020/toolkit"
+             x:Class="Amazon.Pages.RegisterPage">
+
+    <Controls:CustomPage.Background>
+        <LinearGradientBrush StartPoint="0,0" EndPoint="0,1">
+            <GradientStop Color="{DynamicResource LoginFirstColor}" Offset=".3"/>
+            <GradientStop Color="{DynamicResource LoginLastColor}" Offset="1"/>
+        </LinearGradientBrush>
+    </Controls:CustomPage.Background>
+
+
+    <Controls:CustomPage.Content>
+        <ScrollView>
+            <Grid Padding="25" Margin="0,20,0,0" RowSpacing="18">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="2.6*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <Label Text="{Res:Translate Text=lblRegister}" TextColor="White" Grid.ColumnSpan="2"
+                       HorizontalOptions="CenterAndExpand" 
+                       FontAttributes="Bold" FontSize="28"/>
+
+                <Label Grid.Row="1" Text="{Res:Translate Text=lblFirstName}" FontSize="18" FontAttributes="Bold" TextColor="White"
+                       VerticalTextAlignment="Center"/>
+
+                <StackLayout Grid.Row="1" Grid.Column="1" HorizontalOptions="FillAndExpand">
+                    <Frame Style="{DynamicResource LoginAndRegister}">
+                        <StackLayout Orientation="Horizontal">
+                            <Image>
+                                <Image.Source>
+                                    <FontImageSource Glyph="" FontFamily="SolidIcon" Size="26"  />
+                                </Image.Source>
+                            </Image>
+                            <Entry x:Name="txtFirstName" HorizontalOptions="FillAndExpand" Placeholder="{Res:Translate Text=lblEnterFirstName}"
+                           PlaceholderColor="White" ClearButtonVisibility="WhileEditing"
+                               IsSpellCheckEnabled="True" IsTextPredictionEnabled="True"
+                                   Text="{Binding userRegister.FirstName}"
+                               Keyboard="Text" xct:SetFocusOnEntryCompletedBehavior.NextElement="{x:Reference txtLastName}">
+
+                                <Entry.Behaviors>
+                                    <xct:TextValidationBehavior MinimumLength="3"
+                                    MaximumLength="20"  
+                                     Flags="ValidateOnValueChanging"
+                                      x:Name="firstNameValidator"/>
+                                </Entry.Behaviors>
+                            </Entry>
+                        </StackLayout>
+                    </Frame>
+                    <Label FontSize="Medium" Text="First Name Is Not Valid" IsVisible="{Binding IsNotValid ,
+                        Source={x:Reference firstNameValidator}}"
+                           TextColor="#ec1957"  />
+                </StackLayout>
+
+                <Label Grid.Row="2" Text="{Res:Translate Text=lblLastName}" FontSize="18" FontAttributes="Bold" TextColor="White"
+                       VerticalTextAlignment="Center"/>
+
+                <StackLayout Grid.Row="2" Grid.Column="1"  HorizontalOptions="FillAndExpand">
+                    <Frame Style="{DynamicResource LoginAndRegister}">
+                        <StackLayout Orientation="Horizontal">
+                            <Image>
+                                <Image.Source>
+                                    <FontImageSource Glyph="" FontFamily="SolidIcon" Size="26"  />
+                                </Image.Source>
+                            </Image>
+                            <Entry x:Name="txtLastName" HorizontalOptions="FillAndExpand" Placeholder="{Res:Translate Text=lblEnterLastName}"
+                           PlaceholderColor="White" ClearButtonVisibility="WhileEditing"
+                                   Text="{Binding userRegister.LastName}"
+                               IsSpellCheckEnabled="True" IsTextPredictionEnabled="True"
+                               Keyboard="Text"
+                               xct:SetFocusOnEntryCompletedBehavior.NextElement="{x:Reference txtEmail}"    >
+                                <Entry.Behaviors>
+                                    <xct:TextValidationBehavior MinimumLength="3"
+                                    MaximumLength="20" 
+                                     Flags="ValidateOnValueChanging"
+                                     x:Name="lastNameValidator"/>
+                                </Entry.Behaviors>
+                            </Entry>
+                        </StackLayout>
+                    </Frame>
+                    <Label FontSize="Medium" Text="Last Name Is Not Valid" IsVisible="{Binding IsNotValid ,
+                        Source={x:Reference lastNameValidator}}"
+                           TextColor="#ec1957"  />
+                </StackLayout>
+
+
+                <Label Grid.Row="3" Text="{Res:Translate Text=lblEmail}" FontSize="18" FontAttributes="Bold" TextColor="White"
+                       VerticalTextAlignment="Center"/>
+
+                <StackLayout Grid.Row="3" Grid.Column="1"  HorizontalOptions="FillAndExpand">
+                    <Frame Style="{DynamicResource LoginAndRegister}">
+                        <StackLayout Orientation="Horizontal">
+                            <Image>
+                                <Image.Source>
+                                    <FontImageSource Glyph="" FontFamily="SolidIcon" Size="26"  />
+                                </Image.Source>
+                            </Image>
+                            <Entry x:Name="txtEmail" HorizontalOptions="FillAndExpand" Placeholder="{Res:Translate Text=lblEnterYourEmail}"
+                           PlaceholderColor="White" ClearButtonVisibility="WhileEditing"
+                                   Text="{Binding userRegister.Email}"
+                               IsSpellCheckEnabled="True" IsTextPredictionEnabled="True"
+                               Keyboard="Email"
+                                 xct:SetFocusOnEntryCompletedBehavior.NextElement="{x:Reference txtPassword}"  >
+                                <Entry.Behaviors>
+                                    <xct:EmailValidationBehavior
+                                     DecorationFlags="Trim"                                 
+                                     Flags="ValidateOnValueChanging"
+                                     x:Name="emailValidator"/>
+                                </Entry.Behaviors>
+                            </Entry>
+                        </StackLayout>
+                    </Frame>
+                    <Label FontSize="Medium" Text="Email Is Not Valid" IsVisible="{Binding IsNotValid ,
+                        Source={x:Reference emailValidator}}"
+                           TextColor="#ec1957"  />
+                </StackLayout>
+
+                <Label Grid.Row="4" Text="{Res:Translate Text=lblPassword}" FontSize="18" FontAttributes="Bold" TextColor="White"
+                       VerticalTextAlignment="Center"/>
+
+                <StackLayout Grid.Row="4" Grid.Column="1"  HorizontalOptions="FillAndExpand">
+                    <Frame Style="{DynamicResource LoginAndRegister}">
+                        <StackLayout Orientation="Horizontal">
+                            <Image>
+                                <Image.Source>
+                                    <FontImageSource Glyph="" FontFamily="SolidIcon" Size="26"  />
+                                </Image.Source>
+                            </Image>
+                            <Entry x:Name="txtPassword" HorizontalOptions="FillAndExpand" Placeholder="{Res:Translate Text=lblEnterYourPassword}"
+                           PlaceholderColor="White"
+                               IsPassword="True" ClearButtonVisibility="WhileEditing"
+                                   Text="{Binding userRegister.Password}"
+                               Keyboard="Text"
+                               xct:SetFocusOnEntryCompletedBehavior.NextElement="{x:Reference txtConfirmPassword}"    >
+                                <Entry.Behaviors>
+                                    <xct:TextValidationBehavior MinimumLength="8"
+                                    MaximumLength="35" 
+                                     Flags="ValidateOnValueChanging"
+                                      x:Name="passwordValidator"/>
+                                </Entry.Behaviors>
+                            </Entry>
+                        </StackLayout>
+                    </Frame>
+                    <Label FontSize="Medium" Text="Password Length Must Be More Than 8 Char" IsVisible="{Binding IsNotValid ,
+                        Source={x:Reference passwordValidator}}"
+                           TextColor="#ec1957"  />
+                </StackLayout>
+
+                <Label Grid.Row="5" Text="{Res:Translate Text=lblConfirmPassword}" FontSize="18" FontAttributes="Bold" TextColor="White"
+                       VerticalTextAlignment="Center"/>
+
+                <StackLayout Grid.Row="5" Grid.Column="1"  HorizontalOptions="FillAndExpand">
+                    <Frame Style="{DynamicResource LoginAndRegister}">
+                        <StackLayout Orientation="Horizontal">
+                            <Image>
+                                <Image.Source>
+                                    <FontImageSource Glyph="" FontFamily="SolidIcon" Size="26"  />
+                                </Image.Source>
+                            </Image>
+                            <Entry x:Name="txtConfirmPassword" HorizontalOptions="FillAndExpand" Placeholder="{Res:Translate Text=lblEnterYourConfirmPassword}"
+                           PlaceholderColor="White"
+                               IsPassword="True" ClearButtonVisibility="WhileEditing"
+                                   Text="{Binding confirmPassword}"
+                               Keyboard="Text">
+                                <Entry.Behaviors>
+                                    <xct:MultiValidationBehavior>
+                                        <xct:TextValidationBehavior MinimumLength="8"
+                                            MaximumLength="35" 
+                                             Flags="ValidateOnValueChanging"
+                                              x:Name="ConfirmPasswordValidatorNm"/>
+                                        <xct:RequiredStringValidationBehavior
+                                            RequiredString="{Binding Text , Source={x:Reference txtPassword}}"
+                                            x:Name="ConfirmPasswordValidator"/>
+                                    </xct:MultiValidationBehavior>
+                                </Entry.Behaviors>
+                            </Entry>
+                        </StackLayout>
+                    </Frame>
+                    <Label FontSize="Medium" Text="Confirm Password Is Not The Same" IsVisible="{Binding IsNotValid ,
+                        Source={x:Reference ConfirmPasswordValidator}}"
+                           TextColor="#ec1957"  />
+                    <Label FontSize="Medium" Text="Password Must be More Than 8 Character" IsVisible="{Binding IsNotValid ,
+                        Source={x:Reference ConfirmPasswordValidatorNm}}"
+                           TextColor="#ec1957"  />
+                </StackLayout>
+
+                <StackLayout Grid.Row="6" Grid.ColumnSpan="2" Spacing="15" Orientation="Horizontal">
+                    <CheckBox  Color="Orange" IsChecked="{Binding AgreeTerms}"/>
+                    <Label 
+                       Text="{Res:Translate Text=lblTerms}" FontSize="18" 
+                       FontAttributes="Bold" TextColor="White"
+                       VerticalTextAlignment="Center"/>
+                </StackLayout>
+               
+
+                <Button Grid.Row="7" Grid.ColumnSpan="2" Style="{StaticResource loginBtn}"
+                        Text="{Res:Translate Text=lblRegister}" Command="{Binding Register}" />
+
+                <Button Grid.Row="8" Grid.ColumnSpan="2" Style="{StaticResource backBtn}"
+                    Text="{Res:Translate Text=lblBack}" Command="{Binding BtnBack}" />
+            </Grid>
+        </ScrollView>
+    </Controls:CustomPage.Content>
+</Controls:CustomPage>

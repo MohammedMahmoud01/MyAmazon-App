@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:Helpers="clr-namespace:FontAwesome"
+             xmlns:yummy="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"
+             x:Class="Amazon.Controls.ToolBar">
+  <ContentView.Content>
+        <yummy:PancakeView Style="{StaticResource HeaderStyle}">
+            <Grid Style="{StaticResource GridToolBar}">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="60" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="60" />
+                </Grid.ColumnDefinitions>
+
+
+                <ImageButton Grid.Column="0" Style="{StaticResource imgToolBar}" x:Name="imgBack" 
+                             Clicked="imgBackOrMenu">
+
+                    <ImageButton.Source>
+                        <FontImageSource FontFamily="SolidIcon" 
+                      Glyph="{x:Static Helpers:FontAwesomeIcons.ArrowLeft}"  >
+                        </FontImageSource>
+                    </ImageButton.Source>
+                </ImageButton>
+
+                <StackLayout Orientation="Horizontal" Grid.Column="1" VerticalOptions="Center" HorizontalOptions="Center" HeightRequest="52">
+                    <Image x:Name="imgBar"  Source="icon.png"  HeightRequest="52"/>
+                    <Label VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" FontSize="18" 
+                           TextColor="White" FontAttributes="Bold" x:Name="lblTitle" />
+                </StackLayout>
+
+
+                <StackLayout Grid.Column="2" Orientation="Horizontal" x:Name="stackCart">
+                    <ImageButton  Style="{StaticResource imgToolBar}" >
+
+                        <ImageButton.Source>
+                            <FontImageSource FontFamily="SolidIcon" 
+                      Glyph="{x:Static Helpers:FontAwesomeIcons.ShoppingCart}"  >
+                            </FontImageSource>
+                        </ImageButton.Source>
+                        
+                    </ImageButton>
+                    <Label x:Name="lblCartNum" FontFamily="RobotoBold" TextColor="White" />
+                </StackLayout>
+               
+            </Grid>
+
+        </yummy:PancakeView>
+  </ContentView.Content>
+</ContentView>

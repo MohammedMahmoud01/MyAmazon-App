@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Controls:CustomPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:Controls="clr-namespace:Amazon.Controls" 
+             xmlns:Res="clr-namespace:Amazon.Resources"
+             xmlns:xct="http://xamarin.com/schemas/2020/toolkit"
+             x:Class="Amazon.Pages.LoginPage"
+             NavigationPage.HasNavigationBar="False">
+
+    <Controls:CustomPage.Background>
+        <LinearGradientBrush StartPoint="0,0" EndPoint="0,1">
+            <GradientStop Color="{DynamicResource LoginFirstColor}" Offset=".3"/>
+            <GradientStop Color="{DynamicResource LoginLastColor}" Offset="1"/>
+        </LinearGradientBrush>
+    </Controls:CustomPage.Background>
+
+    <Controls:CustomPage.Content>
+        <ScrollView VerticalScrollBarVisibility="Never">
+            <Grid  Margin="30 , 60 , 30 , 0" RowSpacing="20">
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="auto"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="10"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="10"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                
+                <StackLayout HorizontalOptions="CenterAndExpand" Grid.ColumnSpan="2">
+                    <Label FontSize="29" TextColor="White"
+                           FontAttributes="Bold" Text="{Res:Translate Text=lblSignIn}"></Label>
+                </StackLayout>
+
+                <Label Grid.Row="2" 
+                       Text="{Res:Translate Text=lblEmail}" FontSize="18" TextColor="White"/>
+
+
+                <StackLayout Grid.Row="3" Grid.ColumnSpan="2">
+                    <Frame Style="{DynamicResource LoginAndRegister}">
+
+                        <StackLayout Orientation="Horizontal">
+                            <Image>
+                                <Image.Source>
+                                    <FontImageSource FontFamily="SolidIcon" Size="23"  Glyph="" Color="White" />
+                                </Image.Source>
+                            </Image>
+                            <Entry x:Name="txtEmail" Placeholder="{Res:Translate Text=lblEnterYourEmail}" Keyboard="Email"
+                               PlaceholderColor="{DynamicResource TextColor}"  
+                                   TextColor="{DynamicResource TextColor}"
+                               Text="{Binding userLogin.Email}"
+                               HorizontalOptions="FillAndExpand"
+                               ClearButtonVisibility="WhileEditing"
+                               xct:SetFocusOnEntryCompletedBehavior.NextElement="{x:Reference txtPassword}">
+                                <Entry.Behaviors>
+                                    <xct:EmailValidationBehavior 
+                                      DecorationFlags="Trim"                                 
+                                      Flags="ValidateOnValueChanging"
+                                      x:Name="emailValidator"/>
+                                </Entry.Behaviors>
+                            </Entry>
+                        </StackLayout>
+
+                    </Frame>
+
+                    <Label HorizontalOptions="StartAndExpand" Text="Email Is Not Valid" FontSize="18" TextColor="{DynamicResource lblValidate}"
+                     IsVisible="{Binding IsNotValid , Source={x:Reference emailValidator}}"/>
+                </StackLayout>
+
+                <Label Grid.Row="5" 
+                       Text="{Res:Translate Text=lblPassword}" FontSize="18" TextColor="White"/>
+
+
+                <StackLayout Grid.Row="6" Grid.ColumnSpan="2"  >
+                    <Frame Style="{DynamicResource LoginAndRegister}" >
+
+                        <StackLayout Orientation="Horizontal">
+                            <Image>
+                                <Image.Source>
+                                    <FontImageSource Glyph="" FontFamily="SolidIcon" Size="26" Color="White"  />
+                                </Image.Source>
+                            </Image>
+                            <Entry x:Name="txtPassword" Placeholder="{Res:Translate Text=lblEnterYourPassword}" IsPassword="True"
+                               PlaceholderColor="{DynamicResource TextColor}"  TextColor="{DynamicResource TextColor}" 
+                               Keyboard="Text" HorizontalOptions="FillAndExpand" ClearButtonVisibility="WhileEditing"
+                               Text="{Binding userLogin.Password}">
+                                <Entry.Behaviors>
+                                    <xct:TextValidationBehavior MinimumLength="8"                                                  
+                                    MaximumLength="35" 
+                                     Flags="ValidateOnValueChanging"
+                                      x:Name="passwordValidator"/>
+                                </Entry.Behaviors>
+                            </Entry>
+                        </StackLayout>
+                    </Frame>
+
+                    <Label HorizontalOptions="StartAndExpand" FontSize="Medium" Text="Password Length Must Be More Than 8 Char" IsVisible="{Binding IsNotValid ,
+                        Source={x:Reference passwordValidator}}"
+                           TextColor="{DynamicResource lblValidate}"  />
+                </StackLayout>
+
+                <StackLayout Grid.Row="7" Grid.ColumnSpan="2" HorizontalOptions="FillAndExpand" Margin="0,20,0,0">
+                    <Button Style="{StaticResource loginBtn}" Text="{Res:Translate Text=lblSignIn}"
+                            Command="{Binding Login}"/>
+
+                    <Button Style="{StaticResource backBtn}" Text="{Res:Translate Text=lblBack}"
+                        Command="{Binding BtnBack}"/>
+                </StackLayout>
+
+                <StackLayout Grid.Row="8" Grid.ColumnSpan="2" Margin="0,10,0,0" Orientation="Horizontal" HorizontalOptions="CenterAndExpand" Spacing="15">
+                    <Image WidthRequest="40" HeightRequest="40">
+                        <Image.Source>
+                            <FontImageSource FontFamily="FontIcon" Glyph="" Size="20" Color="White" />
+                        </Image.Source>
+                    </Image>
+                    <Image WidthRequest="40" HeightRequest="40" >
+                        <Image.Source>
+                            <FontImageSource FontFamily="FontIcon" Glyph="" Size="20" Color="White"  />
+                        </Image.Source>
+                    </Image>
+                </StackLayout>
+
+                <StackLayout Grid.Row="9" Grid.ColumnSpan="2" Orientation="Vertical" Margin="0,10,0,10" Padding="0,0,10,0" >
+                    <Label Text="{Res:Translate Text=lblNotHaveAccount}" TextColor="White"
+                       HorizontalTextAlignment="Center" FontSize="20"/>
+                    <Label  HorizontalTextAlignment="Center" Text="{Res:Translate Text=lblRegister}" TextColor="Orange" FontSize="20">
+                        <Label.GestureRecognizers>
+                            <TapGestureRecognizer Command="{Binding NavToRegister}" />
+                        </Label.GestureRecognizers>
+                    </Label>
+                </StackLayout>
+
+            </Grid>
+        </ScrollView>
+    </Controls:CustomPage.Content>
+
+</Controls:CustomPage>

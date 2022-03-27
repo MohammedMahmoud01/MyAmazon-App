@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Controls:CustomPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:Helpers="clr-namespace:FontAwesome"
+             xmlns:Controls="clr-namespace:Amazon.Controls"
+             xmlns:xct="http://xamarin.com/schemas/2020/toolkit"
+             xmlns:Res="clr-namespace:Amazon.Resources"
+             xmlns:yummy="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"
+             x:Class="Amazon.Pages.SettingsPage"
+             BackgroundColor="{DynamicResource BgColor}">
+    <ContentPage.Content>
+        
+        <ScrollView VerticalScrollBarVisibility="Never">
+            
+            <Grid RowSpacing="15">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                </Grid.RowDefinitions>
+
+                <Controls:ToolBar HasCartBar="False" HasImgBar="False" Title="{Res:Translate Text=lblSettingsPage}" HasBackButton="True"/>
+
+                <Grid Grid.Row="1" Margin="0,10,0,0" HorizontalOptions="CenterAndExpand" RowSpacing="15" ColumnSpacing="30" IsVisible="{Binding IsSigned}">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto" />
+                        <RowDefinition Height="auto" />
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="auto"/>
+                        <ColumnDefinition Width="auto"/>
+                    </Grid.ColumnDefinitions>
+
+                    <StackLayout HorizontalOptions="CenterAndExpand" Spacing="10"
+                                 VerticalOptions="CenterAndExpand" Grid.Row="0" Grid.ColumnSpan="2">
+                        <Image WidthRequest="40" HeightRequest="40">
+                            <Image.Source>
+                                <FontImageSource Color="{DynamicResource TextColor}" 
+                                     FontFamily="SolidIcon" Glyph="{Static Helpers:FontAwesomeIcons.UserAlt}" />
+                            </Image.Source>
+                        </Image>
+                        <StackLayout Orientation="Horizontal">
+                            <Label Text="{Binding userModel.FirstName}"  />
+                            <Label Text="{Binding userModel.LastName}"  />
+                        </StackLayout>
+                    </StackLayout>
+
+                    <StackLayout HorizontalOptions="StartAndExpand" Grid.Row="1" Grid.Column="0">
+                        <Label Text="Cart Items" />
+                        <Label HorizontalOptions="CenterAndExpand" Text="{Binding CartCount}"/>
+                    </StackLayout>
+
+                    <StackLayout HorizontalOptions="EndAndExpand" Grid.Row="1" Grid.Column="1">
+                        <Label Text="Favourite Items" />
+                        <Label HorizontalOptions="CenterAndExpand" Text="{Binding FavouriteCount}"/>
+                    </StackLayout>
+
+
+                </Grid>
+
+                <Grid Grid.Row="2" RowSpacing="15">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto" />
+                        <RowDefinition Height="auto" />
+                        <RowDefinition Height="auto" />
+                    </Grid.RowDefinitions>
+                    <StackLayout HorizontalOptions="FillAndExpand">
+                        <Label Margin="15,0,15,0" HorizontalTextAlignment="Center" 
+                               Text="{Res:Translate Text=lblViewSettings}"/>
+                    </StackLayout>
+
+                    <yummy:PancakeView Padding="2" Grid.Row="1" Margin="50,0,50,0" >
+                        <yummy:PancakeView.Border>
+                        <yummy:Border Thickness="2">
+                            <yummy:Border.GradientStops>
+                                <yummy:GradientStopCollection>
+                                    <yummy:GradientStop Color="#E4B889" Offset="0.2" />
+                                    <yummy:GradientStop Color="#AD88BC" Offset="1" />
+                                </yummy:GradientStopCollection>
+                            </yummy:Border.GradientStops>
+                        </yummy:Border>
+                        </yummy:PancakeView.Border>
+
+                        <Grid  ColumnSpacing="20">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="auto"/>
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*" />
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+
+                            <Frame Grid.Column="0" HeightRequest="60" Margin="10" HorizontalOptions="CenterAndExpand" BackgroundColor="{DynamicResource SettingsRadio}">
+                                <Frame.GestureRecognizers>
+                                    <TapGestureRecognizer Command="{Binding ChangeTheme}"
+                                                          CommandParameter="1"/>
+                                </Frame.GestureRecognizers>
+                                <Grid>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="auto"/>
+                                    </Grid.RowDefinitions>
+
+                                    <RadioButton IsChecked="{Binding isRadioLight}" GroupName="g1" TranslationY="-35" TranslationX="20" HorizontalOptions="EndAndExpand" />
+                                    <StackLayout  >
+                                        <Image HeightRequest="30" WidthRequest="30">
+                                            <Image.Source>
+                                                <FontImageSource FontFamily="SolidIcon" Color="{DynamicResource TextColor}"
+                                                         Glyph="{Static Helpers:FontAwesomeIcons.Sun}" />
+                                            </Image.Source>
+                                        </Image>
+                                        <Label Text="{Res:Translate Text=lblLightTheme}"/>
+                                    </StackLayout>
+                                </Grid>
+                            </Frame>
+
+
+                            <Frame Grid.Column="1" HeightRequest="60" Margin="10" HorizontalOptions="CenterAndExpand" BackgroundColor="{DynamicResource SettingsRadio}">
+                                <Frame.GestureRecognizers>
+                                    <TapGestureRecognizer Command="{Binding ChangeTheme}"
+                                                              CommandParameter="2"/>
+                                </Frame.GestureRecognizers>
+                                <Grid>
+                                
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="auto"/>
+                                    </Grid.RowDefinitions>
+
+                                    <RadioButton IsChecked="{Binding isRadioDark}" GroupName="g1" 
+                                                TranslationY="-35" TranslationX="20" HorizontalOptions="EndAndExpand" />
+                                    <StackLayout  >
+                                        <Image HeightRequest="30" WidthRequest="30">
+                                            <Image.Source>
+                                                <FontImageSource FontFamily="SolidIcon" Color="{DynamicResource TextColor}"
+                                                         Glyph="{Static Helpers:FontAwesomeIcons.Moon}" />
+                                            </Image.Source>
+                                        </Image>
+                                        <Label Text="{Res:Translate Text=lblDarkTheme}"/>
+                                    </StackLayout>
+                                </Grid>
+                            </Frame>
+
+                        </Grid>
+                    
+                    </yummy:PancakeView>
+           
+                </Grid>
+
+                <Grid Grid.Row="3">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto" />
+                        <RowDefinition Height="auto" />
+                    </Grid.RowDefinitions>
+                    <xct:Expander x:Name="expander">
+                        <xct:Expander.Header>
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="auto" />
+                                </Grid.RowDefinitions>
+                                <Frame Grid.Row="0">
+                                    <StackLayout Orientation="Horizontal">
+                                        <Label HorizontalOptions="StartAndExpand" TextColor="Black"
+                                               Text="{Res:Translate Text=lblLanguague}" />
+                                        <Image HorizontalOptions="End">
+                                            <Image.Source>
+                                                <FontImageSource FontFamily="SolidIcon" Size="20" 
+                                                        Color="Black"
+                                                    Glyph="{Static Helpers:FontAwesomeIcons.ArrowAltCircleDown}" />
+                                            </Image.Source>
+                                        </Image>
+                                    </StackLayout>
+                                </Frame>
+                                <BoxView Grid.Row="0" HorizontalOptions="FillAndExpand" VerticalOptions="EndAndExpand"
+                                         HeightRequest="1"  Color="Gray" WidthRequest="400"/>
+                            </Grid>
+                        </xct:Expander.Header>
+                        <xct:Expander.Content>
+                            <Grid RowSpacing="0">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="auto" />
+                                    <RowDefinition Height="auto" />
+                                </Grid.RowDefinitions>
+                                <Frame Grid.Row="0" >
+                                    <Frame.GestureRecognizers>
+                                        <TapGestureRecognizer Command="{Binding TranslateEn}" />
+                                    </Frame.GestureRecognizers>
+                                    <StackLayout Orientation="Horizontal">
+                                        <Label HorizontalOptions="StartAndExpand" TextColor="Black"
+                                               Text="{Res:Translate Text=lblEnglish}" />
+                                    </StackLayout>
+                                </Frame>
+                                <BoxView Grid.Row="0" HorizontalOptions="FillAndExpand" VerticalOptions="EndAndExpand"
+                                         HeightRequest="1"  Color="Gray" WidthRequest="400"/>
+                                <Frame Grid.Row="1">
+                                    <Frame.GestureRecognizers>
+                                        <TapGestureRecognizer Command="{Binding TranslateAr}" />
+                                    </Frame.GestureRecognizers>
+                                    <StackLayout Orientation="Horizontal">
+                                        <Label HorizontalOptions="StartAndExpand" TextColor="Black" 
+                                               Text="{Res:Translate Text=lblArabic}" />
+                                    </StackLayout>
+                                </Frame>
+                            </Grid>
+                        </xct:Expander.Content>
+                    </xct:Expander>
+
+                    <Frame Grid.Row="1" BackgroundColor="White">
+                        <StackLayout Orientation="Horizontal">
+                            <StackLayout.GestureRecognizers>
+                                <TapGestureRecognizer Command="{Binding NavToAboutUs}"/>
+                            </StackLayout.GestureRecognizers>
+                            <Label HorizontalOptions="StartAndExpand" TextColor="Black"  Text="{Res:Translate Text=lblAboutUs}" />
+                        </StackLayout>
+                    </Frame>
+                </Grid>
+            </Grid>
+        </ScrollView>
+    </ContentPage.Content>
+</Controls:CustomPage>

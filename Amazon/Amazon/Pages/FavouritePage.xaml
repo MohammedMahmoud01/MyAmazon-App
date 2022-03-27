@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Controls:CustomPage  xmlns:Controls="clr-namespace:Amazon.Controls" 
+                      xmlns="http://xamarin.com/schemas/2014/forms"
+                      xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+                      xmlns:Helpers="clr-namespace:FontAwesome"
+                      xmlns:Res="clr-namespace:Amazon.Resources"
+                      xmlns:yummy="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"
+                      x:Class="Amazon.Pages.FavouritePage"
+                      BackgroundColor="{DynamicResource BgColor}"
+                      x:Name="myFavoutirePage">
+    
+    <Controls:CustomPage.Resources>
+        <ResourceDictionary>
+            <DataTemplate x:Key="vTemplate1">
+                <yummy:PancakeView Padding="2">
+                    <yummy:PancakeView.Border>
+                        <yummy:Border Thickness="2">
+                            <yummy:Border.GradientStops>
+                                <yummy:GradientStopCollection>
+                                    <yummy:GradientStop Color="#E4B889" Offset="0.2" />
+                                    <yummy:GradientStop Color="#AD88BC" Offset="1" />
+                                </yummy:GradientStopCollection>
+                            </yummy:Border.GradientStops>
+                        </yummy:Border>
+                    </yummy:PancakeView.Border>
+                    <StackLayout Spacing="10" Padding="2">
+                        <Frame  Padding="0" HasShadow="False"  HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" CornerRadius="10" HeightRequest="150" WidthRequest="165">
+                            <Image Source="{Binding ImageName, StringFormat='http://mohammedmahmoud-001-site1.htempurl.com/Uploads/{0}'}" Aspect="Fill" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"/>
+                        </Frame>
+                        <Frame  BackgroundColor="{DynamicResource BigFrameTemplate1}" Padding="0,0,0,10">
+                            <StackLayout>
+                                <Label HorizontalOptions="CenterAndExpand" Text="{Binding ItemName}" TextColor="{DynamicResource TextColor}"  
+                                                        FontSize="18"  />
+
+                                <Frame BackgroundColor="{DynamicResource SmallFrameTemplate1}" Padding="5">
+                                    <StackLayout>
+                                        <Label Text="{Binding SalesPrice , StringFormat='${0}'}"  TextColor="{DynamicResource TextColor}"  
+                                                       VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" FontSize="18"/>
+                                        <Label Text="{Binding Quantity , StringFormat='Quantity is: {0}'}"  TextColor="{DynamicResource TextColor}" 
+                                                                VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" FontSize="18"/>
+                                    </StackLayout>
+                                </Frame>
+
+                                <StackLayout Orientation="Vertical" Margin="0,5,0,0" Padding="10,0,10,0">
+
+                                    <Button HorizontalOptions="CenterAndExpand" Text="{Res:Translate Text=lblAddToCart}" 
+                                        Style="{DynamicResource BtnAddTo}"
+                                        Command="{Binding BindingContext.AddToCart , Source={x:Reference myFavoutirePage}}" 
+                                        CommandParameter="{Binding}">
+                                        <Button.ImageSource>
+                                            <FontImageSource Size="12" FontFamily="SolidIcon" 
+                                                 Color="{DynamicResource TextColor}" Glyph="{Static Helpers:FontAwesomeIcons.CartPlus}" />
+                                        </Button.ImageSource>
+                                        
+                                    </Button>
+
+                                    <Button Margin="0,8,0,0" HorizontalOptions="CenterAndExpand" Text="{Res:Translate Text=lblRemove}" 
+                                       Style="{DynamicResource BtnAddTo}"
+                                        Command="{Binding BindingContext.Remove , Source={x:Reference myFavoutirePage}}" 
+                                        CommandParameter="{Binding}">
+                                        <Button.ImageSource>
+                                            <FontImageSource Size="12" FontFamily="SolidIcon" 
+                                                 Color="{DynamicResource TextColor}" Glyph="{Static Helpers:FontAwesomeIcons.Trash}" />
+                                        </Button.ImageSource>
+                                       
+                                    </Button>
+
+
+                                </StackLayout>
+                            </StackLayout>
+                        </Frame>
+                    </StackLayout>
+                </yummy:PancakeView>
+            </DataTemplate>
+        </ResourceDictionary>
+    </Controls:CustomPage.Resources>
+    
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto" />
+                <RowDefinition Height="auto" />
+                <RowDefinition Height="auto" />
+            </Grid.RowDefinitions>
+
+            <Controls:ToolBar HasCartBar="False" Grid.Row="0" HasBackButton="True" HasImgBar="False" Title="{Res:Translate Text=lblFavouritePage}" />
+            
+            <StackLayout Grid.Row="1" Margin="0,50,0,0"  HorizontalOptions="CenterAndExpand" 
+                             VerticalOptions="CenterAndExpand"
+                             IsVisible="{Binding NoFavouriteVisible}">
+
+                <Image  HeightRequest="100" WidthRequest="100"  HorizontalOptions="CenterAndExpand" 
+                             VerticalOptions="CenterAndExpand"
+                          Aspect="Fill" >
+
+                    <Image.Source>
+                        <FontImageSource FontFamily="SolidIcon" Color="{DynamicResource TextColor}" Glyph="{Static Helpers:FontAwesomeIcons.Star}" />
+                    </Image.Source>
+                </Image>
+
+                <Label Margin="10,0,10,0" Style="{DynamicResource lblHeaderText}" Text="{Res:Translate Text=lblEmptyFavourite}" />
+
+            </StackLayout>
+
+
+            <Grid Grid.Row="2" IsVisible="{Binding FavouriteVisible}">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                </Grid.RowDefinitions>
+                <Label Text="{Res:Translate Text=lblFavouriteItems}" HorizontalOptions="CenterAndExpand"
+                      VerticalOptions="CenterAndExpand" TextColor="{DynamicResource TextColor}"/>
+
+                <CollectionView Margin="15,0,15,0" Grid.Row="1" ItemsSource="{Binding lstFavouriteItems}" 
+                          ItemTemplate="{StaticResource vTemplate1}" VerticalOptions="Start">
+
+                    <CollectionView.ItemsLayout>
+                        <GridItemsLayout Orientation="Vertical"  
+                                            VerticalItemSpacing="15" HorizontalItemSpacing="15" >
+
+                            <GridItemsLayout.Span>
+                                <OnIdiom x:TypeArguments="x:Int32" Phone="2" Tablet="4"></OnIdiom>
+                            </GridItemsLayout.Span>
+
+                        </GridItemsLayout>
+                    </CollectionView.ItemsLayout>
+
+                </CollectionView>
+
+            </Grid>
+            
+        </Grid>
+    </ContentPage.Content>
+</Controls:CustomPage>

@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Controls:CustomPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:Controls="clr-namespace:Amazon.Controls"
+             xmlns:Res="clr-namespace:Amazon.Resources"
+             xmlns:Helpers="clr-namespace:FontAwesome" 
+             x:Class="Amazon.Pages.ItemDetailsPage"
+             BackgroundColor="{DynamicResource BgColor}"
+             x:Name="myItemDetails">
+
+    <Controls:CustomPage.Resources>
+        <ResourceDictionary>
+            <DataTemplate x:Key="vTemplate2">
+                <StackLayout Margin="5,0,5,0" Spacing="12" VerticalOptions="Start" HorizontalOptions="CenterAndExpand">
+                    <Frame Padding="0" HasShadow="False"  HorizontalOptions="Start" VerticalOptions="Start" CornerRadius="10" HeightRequest="150" WidthRequest="150">
+                        <Image Source="{Binding ImageName, StringFormat='http://mohammedmahmoud-001-site1.htempurl.com/Uploads/{0}'}" Aspect="Fill" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"/>
+                    </Frame>
+                    <StackLayout Spacing="13">
+                        <Label HorizontalOptions="CenterAndExpand" Text="{Binding ItemName}" TextColor="{DynamicResource TextColor}"  FontSize="19" />
+                        <Label HorizontalOptions="CenterAndExpand" Text="{Binding SalesPrice , StringFormat='${0}'}" Margin="0,-7,0,0" TextColor="{DynamicResource TextColor}"  FontSize="16"/>
+                        <StackLayout Orientation="Horizontal">
+                            <Button HorizontalOptions="CenterAndExpand" Text="{Res:Translate Text=lblAddToCart}" 
+                                    Command="{Binding BindingContext.AddToCart , Source={x:Reference myItemDetails}}" 
+                                     CommandParameter="{Binding}"
+                                Style="{DynamicResource BtnAddTo}">
+                                <Button.ImageSource>
+                                    <FontImageSource Size="12" FontFamily="SolidIcon" 
+                                                                 Color="{DynamicResource TextColor}" Glyph="{Static Helpers:FontAwesomeIcons.Star}" />
+                                </Button.ImageSource>
+                                
+                            </Button>
+                        </StackLayout>
+                    </StackLayout>
+                </StackLayout>
+            </DataTemplate>
+
+        </ResourceDictionary>
+    </Controls:CustomPage.Resources>
+    
+    <Controls:CustomPage.Content>
+
+        <ScrollView VerticalScrollBarVisibility="Never">
+            <Grid HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="300" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+
+                <Controls:ToolBar HasCartBar="False" HasImgBar="False" Title="{Res:Translate Text=lblItemDetialsPage}" HasBackButton="True"/>
+                
+                <CarouselView Grid.Row="1" Margin="5"  ItemsSource="{Binding lstImages}"  VerticalOptions="StartAndExpand" 
+                       IndicatorView="Indicator"  HorizontalOptions="FillAndExpand" >
+
+                    <CarouselView.ItemTemplate>
+                        <DataTemplate>
+                            <Grid HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+                                <Image Source="{Binding ImageName, StringFormat='http://mohammedmahmoud-001-site1.htempurl.com/Uploads/{0}'}" Aspect="Fill" HorizontalOptions="FillAndExpand"/>
+                            </Grid>
+                        </DataTemplate>
+                    </CarouselView.ItemTemplate>
+
+                </CarouselView>
+                <IndicatorView HeightRequest="20" Grid.Row="2" TranslationY="-10" x:Name="Indicator" IndicatorsShape="Circle"
+                         IndicatorColor="LightGray" SelectedIndicatorColor="Orange" />
+
+                <Grid Grid.Row="3"  RowSpacing="10">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto" />
+                        <RowDefinition Height="auto" />
+                        <RowDefinition Height="auto" />
+                        <RowDefinition Height="auto" />
+                        <RowDefinition Height="auto" />
+                        <RowDefinition Height="*" />
+                    </Grid.RowDefinitions>
+
+                    <Label TextColor="{DynamicResource TextColor}"  Grid.Row="1" HorizontalOptions="CenterAndExpand" Text="{Binding ItemDetials.ItemName}"
+                               FontAttributes="Bold" FontSize="18" />
+                    <StackLayout Grid.Row="2" Orientation="Horizontal"  HorizontalOptions="CenterAndExpand">
+                        <ImageButton>
+                            <ImageButton.Source>
+                                <FontImageSource Color="{DynamicResource TextColor}" FontFamily="SolidIcon" Size="18"  Glyph="" />
+                            </ImageButton.Source>
+                        </ImageButton>
+
+                        <ImageButton>
+                            <ImageButton.Source>
+                                <FontImageSource Color="{DynamicResource TextColor}" FontFamily="SolidIcon" Size="18"  Glyph="" />
+                            </ImageButton.Source>
+                        </ImageButton>
+
+                        <ImageButton>
+                            <ImageButton.Source>
+                                <FontImageSource Color="{DynamicResource TextColor}" FontFamily="SolidIcon" Size="18"  Glyph="" />
+                            </ImageButton.Source>
+                        </ImageButton>
+
+                        <ImageButton>
+                            <ImageButton.Source>
+                                <FontImageSource Color="{DynamicResource TextColor}" FontFamily="SolidIcon" Size="18"  Glyph="" />
+                            </ImageButton.Source>
+                        </ImageButton>
+
+                        <ImageButton>
+                            <ImageButton.Source>
+                                <FontImageSource Color="{DynamicResource TextColor}" FontFamily="SolidIcon" Size="18"  Glyph="{Static Helpers:FontAwesomeIcons.StarHalf}" />
+                            </ImageButton.Source>
+                        </ImageButton>
+
+                    </StackLayout>
+
+                    <StackLayout Grid.Row="3" Orientation="Horizontal" Padding="25,0,25,0">
+
+                        <StackLayout HorizontalOptions="StartAndExpand">
+                            <Label TextColor="{DynamicResource TextColor}"   Text="{Res:Translate Text=lblPrice}" />
+                            <Label TextColor="{DynamicResource TextColor}"   Text="{Binding ItemDetials.SalesPrice , StringFormat= '${0}'}" />
+                        </StackLayout>
+                    </StackLayout>
+
+                    <StackLayout Orientation="Horizontal" Spacing="5" Grid.Row="4" Padding="25,0,25,0">
+                        <Label TextColor="{DynamicResource TextColor}"  Text="{Res:Translate Text=lblProductDescreption}"/>
+                       
+                    </StackLayout>
+
+                </Grid>
+
+
+                <StackLayout Margin="0,20,0,20"  Grid.Row="4" VerticalOptions="EndAndExpand" HorizontalOptions="FillAndExpand">
+
+                    <Grid Padding="20,0,20,0">
+                        <StackLayout Orientation="Horizontal" HorizontalOptions="Start" VerticalOptions="Center">
+                            <Label TextColor="{DynamicResource TextColor}"  VerticalTextAlignment="Center" FontAttributes="Bold" Text="{Res:Translate Text=lblAddToFavourite}" />
+                            <ImageButton>
+                                <ImageButton.Source>
+                                    <FontImageSource Color="{DynamicResource TextColor}" FontFamily="SolidIcon" Size="18"  Glyph="" />
+                                </ImageButton.Source>
+                            </ImageButton>
+                            <StackLayout.GestureRecognizers>
+                                <TapGestureRecognizer Command="{Binding AddToFavourite}" 
+                                        CommandParameter="{Binding ItemDetials}"/>
+                            </StackLayout.GestureRecognizers>
+                        </StackLayout>
+
+                        <Button HorizontalOptions="End" Text="{Res:Translate Text=lblAddToCart}"
+                                Style="{DynamicResource BtnAddTo}"
+                                     Command="{Binding AddToCart}" 
+                                        CommandParameter="{Binding ItemDetials}">
+                            <Button.ImageSource>
+                                <FontImageSource Size="12" FontFamily="SolidIcon" 
+                                                                 Color="{DynamicResource TextColor}" Glyph="{Static Helpers:FontAwesomeIcons.Star}" />
+                            </Button.ImageSource>
+                            
+                        </Button>
+
+                    </Grid>
+                </StackLayout>
+
+
+                <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" Grid.Row="6" IsVisible="{Binding RelatedVisible}">
+                    <Label Text="{Res:Translate Text=lblRelatedItems}" TextColor="{DynamicResource TextColor}"  />
+                </StackLayout>
+                
+                <Grid Grid.Row="7" RowSpacing="20" Margin="20,20,20,0" HorizontalOptions="FillAndExpand" VerticalOptions="Start">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+                    
+                    <ScrollView Orientation="Horizontal" Grid.Row="0" VerticalOptions="Start" VerticalScrollBarVisibility="Never" HorizontalScrollBarVisibility="Never">
+                        <StackLayout BindableLayout.ItemsSource="{Binding RelatedItems1}" Orientation="Horizontal"
+                                     BindableLayout.ItemTemplate="{StaticResource vTemplate2}"  
+                                         Spacing="20" VerticalOptions="Start">
+
+                        </StackLayout>
+                    </ScrollView>
+                </Grid>
+
+                <StackLayout Margin="0,10,0,5" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" Grid.Row="9" IsVisible="{Binding CatVisible}">
+                    <Label Text="{Res:Translate Text=lblRelatedItems}" TextColor="{DynamicResource TextColor}"  />
+                </StackLayout>
+
+                <Grid Grid.Row="10" RowSpacing="20" Margin="20,20,20,10" HorizontalOptions="FillAndExpand" VerticalOptions="Start">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+
+                    <ScrollView Orientation="Horizontal" Grid.Row="0" VerticalOptions="Start" VerticalScrollBarVisibility="Never" HorizontalScrollBarVisibility="Never">
+                        <StackLayout BindableLayout.ItemsSource="{Binding RelatedItems2}" Orientation="Horizontal"
+                                     BindableLayout.ItemTemplate="{StaticResource vTemplate2}"  
+                                         Spacing="20" VerticalOptions="Start">
+
+                        </StackLayout>
+                    </ScrollView>
+                </Grid>
+
+            </Grid>
+        </ScrollView>
+
+    </Controls:CustomPage.Content>
+</Controls:CustomPage>

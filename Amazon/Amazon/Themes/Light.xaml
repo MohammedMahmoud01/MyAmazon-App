@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ResourceDictionary xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Amazon.Themes.Light">
+
+    <Color x:Key="ToolBarColor">#ff4a68</Color>
+    <Color x:Key="NavDrawerColor">#FFF</Color>
+    <Color x:Key="HeaderDrawerColor">#67A3F4</Color>
+    <Color x:Key="BgColor">#dee0e3</Color>
+    <Color x:Key="BgColorInverse">#5c5c5c</Color>
+    <Color x:Key="BoxBg">#ffffff</Color>
+    <Color x:Key="TextColor">#000</Color>
+
+    <Color x:Key="TextCartColor">#000</Color>
+
+    <Color x:Key="TextInverseColor">#fff</Color>
+
+    <Color x:Key="SmallFrameTemplate1">#fff</Color>
+
+    <Color x:Key="BigFrameTemplate1">#ECECEC</Color>
+
+    <Color x:Key="Grediant1Template1">#E4B889</Color>
+    <Color x:Key="Grediant2Template1">#AD88BC</Color>
+
+    <Color x:Key="CartPriceColor">#000</Color>
+
+    <Color x:Key="LoginFirstColor">#67A3F4</Color>
+    <Color x:Key="LoginLastColor">#225AA9</Color>
+
+    <Color x:Key="LoginFrameColor">#609DF0</Color>
+
+    <Color x:Key="lblValidate">#ec1957</Color>
+
+    <Color x:Key="SettingsRadio">#FFF</Color>
+
+    <Color x:Key="GrayLighter">#e5e5e5</Color>
+    <Color x:Key="GrayLight">#9b9b9b</Color>
+    <Color x:Key="Gray">#707070</Color>
+    <Color x:Key="GrayDark">#5c5c5c</Color>
+    <Color x:Key="GrayDarker">#3c3c3c</Color>
+    <Color x:Key="GrayDarkest">#333333</Color>
+    <Color x:Key="GrayDarkerR">#1A1A1A</Color>
+
+    <Color x:Key="Black">#000000</Color>
+
+    <Color x:Key="NavTextColor">#454545</Color>
+    <Color x:Key="ItemBlockBG">#e9e9e9</Color>
+    
+</ResourceDictionary>

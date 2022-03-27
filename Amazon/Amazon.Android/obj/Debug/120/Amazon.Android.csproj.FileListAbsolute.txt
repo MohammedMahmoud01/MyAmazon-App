@@ -1,0 +1,1534 @@
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\bin\Debug\Amazon.Android.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\bin\Debug\Amazon.Android.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\bin\Debug\com.MyCompanyPac.amazon.apk
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\bin\Debug\com.MyCompanyPac.amazon.aab
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\bin\Debug\com.MyCompanyPac.amazon-Signed.aab
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\bin\Debug\com.MyCompanyPac.amazon-Signed.apk
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\bin\Debug\com.MyCompanyPac.amazon-Signed.apk.idsig
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\bin\Debug\Amazon.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\bin\Debug\Amazon.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\bin\Debug\ar\Amazon.resources.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\MonoAndroid,Version=v12.0.AssemblyAttributes.cs
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\build.props
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\adb.props
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\Amazon.Android.csproj.AssemblyReference.cache
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\stamp\_BuildLibraryImportsCache.stamp
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res.flag
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\lp\3\jl\files.cache
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\lp\4\jl\files.cache
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\lp\58\jl\files.cache
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\lp\59\jl\files.cache
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\lp\61\jl\files.cache
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\lp\67\jl\files.cache
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\lp\68\jl\files.cache
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\lp\69\jl\files.cache
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\lp\73\jl\files.cache
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\lp\74\jl\files.cache
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\lp\75\jl\files.cache
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\lp\80\jl\files.cache
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\lp\81\jl\files.cache
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\lp\85\jl\files.cache
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\lp\91\jl\files.cache
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\lp\93\jl\files.cache
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\lp\94\jl\files.cache
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\lp\95\jl\files.cache
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\lp\96\jl\files.cache
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\lp\97\jl\files.cache
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\lp\98\jl\files.cache
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\lp\99\jl\files.cache
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\lp\101\jl\files.cache
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\lp\102\jl\files.cache
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\lp\103\jl\files.cache
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\lp\104\jl\files.cache
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\lp\105\jl\files.cache
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\lp\110\jl\files.cache
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\R.txt
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\R.cs.flag
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\Amazon.Android.csproj.CoreCompileInputs.cache
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\Amazon.Android.csproj.CopyComplete
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\Amazon.Android.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\Amazon.Android.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\bin\com.MyCompanyPac.amazon.apk
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\bin\base.zip
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\bin\com.MyCompanyPac.amazon.aab
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\bin\com.MyCompanyPac.amazon.apks
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\values\styles.xml
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\values\colors.xml
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-anydpi-v26\icon.xml
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-anydpi-v26\icon_round.xml
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-hdpi\icon.png
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-hdpi\launcher_foreground.png
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-mdpi\icon.png
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-mdpi\launcher_foreground.png
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xhdpi\icon.png
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xhdpi\launcher_foreground.png
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xxhdpi\icon.png
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xxhdpi\launcher_foreground.png
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xxxhdpi\icon.png
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xxxhdpi\launcher_foreground.png
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\drawable\classic.png
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\drawable\icon.png
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\drawable\splash.png
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xxxhdpi\splash.png
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xxhdpi\splash.png
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xhdpi\splash.png
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-mdpi\splash.png
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-hdpi\splash.png
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\drawable\elegantcol.png
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\drawable\leatherbag.png
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\drawable\mobilebanner.jpg
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\drawable\tvbanner.jpg
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\drawable\cartbanner.jpg
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-anydpi-v26\classic.png
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-anydpi-v26\elegantcol.png
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-anydpi-v26\leatherbag.png
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-anydpi-v26\mobilebanner.jpg
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-anydpi-v26\tvbanner.jpg
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-anydpi-v26\cartbanner.jpg
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-hdpi\classic.png
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-hdpi\elegantcol.png
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-hdpi\leatherbag.png
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-hdpi\mobilebanner.jpg
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-hdpi\tvbanner.jpg
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-hdpi\cartbanner.jpg
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-mdpi\classic.png
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-mdpi\elegantcol.png
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-mdpi\leatherbag.png
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-mdpi\mobilebanner.jpg
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-mdpi\tvbanner.jpg
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-mdpi\cartbanner.jpg
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xhdpi\classic.png
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xhdpi\elegantcol.png
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xhdpi\leatherbag.png
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xhdpi\mobilebanner.jpg
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xhdpi\tvbanner.jpg
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xhdpi\cartbanner.jpg
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xxhdpi\classic.png
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xxhdpi\elegantcol.png
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xxhdpi\leatherbag.png
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xxhdpi\mobilebanner.jpg
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xxhdpi\tvbanner.jpg
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xxhdpi\cartbanner.jpg
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xxxhdpi\classic.png
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xxxhdpi\elegantcol.png
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xxxhdpi\leatherbag.png
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xxxhdpi\mobilebanner.jpg
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xxxhdpi\tvbanner.jpg
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xxxhdpi\cartbanner.jpg
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\drawable\emptycart.png
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-anydpi-v26\emptycart.png
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-hdpi\emptycart.png
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-mdpi\emptycart.png
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xhdpi\emptycart.png
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xxhdpi\emptycart.png
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xxxhdpi\emptycart.png
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\uploadflags.txt
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\resolvedassemblies.hash
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Akavache.Core.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Amazon.Android.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Amazon.Android.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Amazon.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Amazon.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\FormsViewGroup.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\FormsViewGroup.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\FreshIOC.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\FreshMvvm.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Java.Interop.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Mono.Android.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Mono.Android.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Mono.Security.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Mono.Security.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\mscorlib.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\mscorlib.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\netstandard.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Newtonsoft.Json.Bson.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Newtonsoft.Json.Bson.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Newtonsoft.Json.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Plugin.Settings.Abstractions.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Plugin.Settings.Abstractions.dll.mdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Plugin.Settings.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Plugin.Settings.dll.mdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Polly.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Polly.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Splat.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Syncfusion.Core.XForms.Android.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Syncfusion.Core.XForms.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Syncfusion.Licensing.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Syncfusion.SfNavigationDrawer.Android.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Syncfusion.SfNavigationDrawer.XForms.Android.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Syncfusion.SfNavigationDrawer.XForms.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Collections.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.ComponentModel.Composition.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.ComponentModel.Composition.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Core.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Core.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Data.DataSetExtensions.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Data.DataSetExtensions.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Data.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Data.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Drawing.Common.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Drawing.Common.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.IO.Compression.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.IO.Compression.FileSystem.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.IO.Compression.FileSystem.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.IO.Compression.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Linq.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Net.Http.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Net.Http.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Numerics.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Numerics.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Numerics.Vectors.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Numerics.Vectors.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Reactive.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Reflection.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Reflection.Extensions.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Resources.ResourceManager.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Runtime.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Runtime.Extensions.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Runtime.InteropServices.WindowsRuntime.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Runtime.Serialization.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Runtime.Serialization.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.ServiceModel.Internals.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.ServiceModel.Internals.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Text.Encoding.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Text.RegularExpressions.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Threading.Tasks.Extensions.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Transactions.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Transactions.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Web.Services.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Web.Services.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Xml.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Xml.Linq.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Xml.Linq.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Xml.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Activity.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Activity.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Annotation.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Annotation.Experimental.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Annotation.Experimental.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Annotation.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.AppCompat.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.AppCompat.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Arch.Core.Common.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Arch.Core.Common.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Browser.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Browser.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.CardView.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.CardView.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Collection.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Collection.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Concurrent.Futures.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Concurrent.Futures.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.ConstraintLayout.Core.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.ConstraintLayout.Core.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.ConstraintLayout.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.ConstraintLayout.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.CoordinatorLayout.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.CoordinatorLayout.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Core.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Core.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.CursorAdapter.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.CursorAdapter.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.CustomView.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.CustomView.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.DocumentFile.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.DocumentFile.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.DrawerLayout.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.DrawerLayout.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.DynamicAnimation.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.DynamicAnimation.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Fragment.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Fragment.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Interpolator.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Interpolator.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Legacy.Support.V4.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Legacy.Support.V4.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.Common.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.Common.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Loader.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Loader.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.LocalBroadcastManager.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.LocalBroadcastManager.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Media.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Media.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.MultiDex.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.MultiDex.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Navigation.Common.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Navigation.Common.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Navigation.Runtime.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Navigation.Runtime.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Navigation.UI.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Navigation.UI.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Preference.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Preference.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Print.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Print.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.RecyclerView.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.RecyclerView.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.SavedState.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.SavedState.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.SlidingPaneLayout.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.SlidingPaneLayout.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Tracing.Tracing.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Tracing.Tracing.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Transition.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Transition.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.VectorDrawable.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.VectorDrawable.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.VersionedParcelable.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.VersionedParcelable.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.ViewPager.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.ViewPager.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.ViewPager2.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.ViewPager2.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.CommunityToolkit.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.Essentials.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.Essentials.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.Forms.Core.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.Forms.Core.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.Forms.PancakeView.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.Forms.Platform.Android.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.Forms.Platform.Android.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.Forms.Platform.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.Forms.Xaml.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.Forms.Xaml.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.Google.Android.Material.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.Google.Android.Material.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.Google.Guava.ListenableFuture.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\typemaps.arm64-v8a.s
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\typemaps.armeabi-v7a.s
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\typemaps.x86.s
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\typemaps.x86_64.s
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\typemaps.armeabi-v7a-shared.inc
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\typemaps.shared.inc
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\AndroidManifest.xml
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\AndroidManifest.xml
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\__environment__.txt
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\MonoRuntimeProvider.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\assets\machine.config
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\bin\mono.android.jar
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\static.flag
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\buildid.txt
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\environment.arm64-v8a.s
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\environment.armeabi-v7a.s
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\environment.x86.s
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\environment.x86_64.s
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\annotation\experimental\R.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\appcompat\R.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\appcompat\resources\R.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\appcompat\widget\Toolbar_NavigationOnClickEventDispatcher.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\browser\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\browser\R.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\cardview\R.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\constraintlayout\widget\R.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\coordinatorlayout\R.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\core\R.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\drawerlayout\R.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\fragment\R.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\lifecycle\runtime\R.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\lifecycle\viewmodel\R.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\media\R.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\navigation\common\R.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\navigation\R.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\navigation\ui\R.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\preference\R.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\recyclerview\R.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\savedstate\R.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\swiperefreshlayout\R.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\transition\R.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\viewpager2\R.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\com\google\android\material\R.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\com\google\android\material\snackbar\Snackbar_SnackbarActionClickImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc640879981a986d658b\SfGradientViewRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc6414252951f3f66c67\CarouselViewAdapter_2.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc642e1c7a98bdb5c44a\AutoFitTextureView.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc642e1c7a98bdb5c44a\CameraCaptureListener.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc642e1c7a98bdb5c44a\CameraCaptureStateListener.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc642e1c7a98bdb5c44a\CameraFragment.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc642e1c7a98bdb5c44a\CameraStateListener.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc642e1c7a98bdb5c44a\CameraViewRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc642e1c7a98bdb5c44a\DrawingViewRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc642e1c7a98bdb5c44a\FormsVideoView.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc642e1c7a98bdb5c44a\ImageAvailableListener.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc642e1c7a98bdb5c44a\MediaElementRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc642e1c7a98bdb5c44a\PopupRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc642e1c7a98bdb5c44a\SemanticOrderViewRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc642e1c7a98bdb5c44a\SnackBar_SnackBarCallback.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc642e1c7a98bdb5c44a\TextSwitcherRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc642e1c7a98bdb5c44a\ThumbFrameRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64396a3fe5f8138e3f\CustomTabsServiceConnectionImpl.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64396a3fe5f8138e3f\KeepAliveService.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643ddf594df781e5ec\SfBorderRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\AccessibilityDelegateAutomationId.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ContainerView.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler_CustomLocalStateData.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EllipseRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EllipseView.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FlyoutPageContainer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FlyoutPageRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FlyoutPageRendererNonAppCompat.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable_GradientShaderFactory.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\LineRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\LineView.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PageContainer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PathRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PathView.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PolygonRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PolygonView.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PolylineRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PolylineView.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\RadioButtonRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\RectangleRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\RectView.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\RecyclerViewContainer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShapeRenderer_2.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShapeView.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellFlyoutLayout.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc644103bb497e895a1b\InputLayoutBorder.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc644103bb497e895a1b\InputLayoutBorderRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc644103bb497e895a1b\InputLayoutClearButtonViewRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc644103bb497e895a1b\InputLayoutClearButtonViewRenderer_GestureListener.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc644103bb497e895a1b\InputLayoutToggleViewRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc644103bb497e895a1b\InputLayoutToggleViewRenderer_GestureListener.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc644103bb497e895a1b\SfTextInputLayoutRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64515ee83f00766c60\PlatformShadowEffect_ShadowOutlineProvider.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64515ee83f00766c60\PlatformTouchEffect_AccessibilityListener.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64515ee83f00766c60\SemanticEffectRouter_SemanticAccessibilityDelegate.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64515ee83f00766c60\VisualFeedbackEffectRouter_FastRendererOnLayoutChangeListener.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc6459465d16aed70698\DrawerContentView.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc6459465d16aed70698\DrawerLayout.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc6459465d16aed70698\FooterView.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc6459465d16aed70698\HeaderView.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc6459465d16aed70698\MainContentView.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc6459465d16aed70698\SeparatorView.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc6459465d16aed70698\SfNavigationDrawer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc6459fe30e8fdccb7f6\MainActivity.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc6459fe30e8fdccb7f6\Splash.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc645b8ccbad6ecd7dce\SideMenuViewRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc647c0f57ca5ddbf08e\SfNavigationDrawerRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\ClipboardChangeListener.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\Connectivity_EssentialsNetworkCallback.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\IntermediateActivity.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\Listener.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorCallbackActivity.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorIntermediateActivity.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64a25b61d9f8ee364f\FloatArrayEvaluator.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64a25b61d9f8ee364f\RectEvaluator.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64a25b61d9f8ee364f\TransitionUtils.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64a25b61d9f8ee364f\TransitionUtils_MatrixEvaluator.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64ee486da937c010f4\FrameRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64ee486da937c010f4\ImageRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64ee486da937c010f4\LabelRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64eeb36180fe6023e2\GestureListener.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64eeb36180fe6023e2\SfEffectsViewRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64f606ab658bf2774f\SfShimmerRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64f606ab658bf2774f\ShimmerViewRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64f8908e42fa42e603\PancakeDrawable.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64f8908e42fa42e603\PancakeViewRenderer.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64f8908e42fa42e603\RoundedCornerOutlineProvider.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\activity\contextaware\OnContextAvailableListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\appcompat\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\appcompat\app\ActionBar_OnNavigationListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\appcompat\app\ActionBar_TabListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\appcompat\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\appcompat\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\appcompat\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\appcompat\widget\MenuItemHoverListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\appcompat\widget\PopupMenu_OnDismissListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\appcompat\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\appcompat\widget\SearchView_OnCloseListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\appcompat\widget\SearchView_OnQueryTextListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\appcompat\widget\SearchView_OnSuggestionListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\appcompat\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\appcompat\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\appcompat\widget\ViewStubCompat_OnInflateListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\asynclayoutinflater\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\constraintlayout\motion\widget\MotionLayout_TransitionListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\constraintlayout\widget\SharedValues_SharedValuesListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\core\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\core\os\CancellationSignal_OnCancelListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\core\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\core\view\ActionProvider_VisibilityListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\core\view\DragStartHelper_OnDragStartListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\core\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\core\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\core\view\OnApplyWindowInsetsListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\core\view\OnReceiveContentListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\core\view\ViewPropertyAnimatorListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\core\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\core\view\WindowInsetsControllerCompat_OnControllableInsetsChangedListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\core\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\drawerlayout\widget\DrawerLayout_DrawerListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\dynamicanimation\animation\DynamicAnimation_OnAnimationEndListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\dynamicanimation\animation\DynamicAnimation_OnAnimationUpdateListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\fragment\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\fragment\app\FragmentOnAttachListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\fragment\app\FragmentResultListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\loader\content\Loader_OnLoadCanceledListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\loader\content\Loader_OnLoadCompleteListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\navigation\NavController_OnDestinationChangedListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\navigation\ui\AppBarConfiguration_OnNavigateUpListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\preference\EditTextPreference_OnBindEditTextListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\preference\PreferenceGroup_OnExpandButtonClickListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\preference\PreferenceManager_OnDisplayPreferenceDialogListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\preference\PreferenceManager_OnNavigateToScreenListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\preference\PreferenceManager_OnPreferenceTreeClickListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\preference\Preference_OnPreferenceChangeListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\preference\Preference_OnPreferenceClickListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\recyclerview\widget\AsyncListDiffer_ListListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\recyclerview\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnItemTouchListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\recyclerview\widget\RecyclerView_RecyclerListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\slidingpanelayout\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\swiperefreshlayout\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\transition\Transition_TransitionListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\viewpager\widget\ViewPager_OnAdapterChangeListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\viewpager\widget\ViewPager_OnPageChangeListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\android\app\ApplicationRegistration.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\com\google\android\material\appbar\AppBarLayout_OnOffsetChangedListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\com\google\android\material\behavior\SwipeDismissBehavior_OnDismissListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\com\google\android\material\button\MaterialButtonToggleGroup_OnButtonCheckedListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\com\google\android\material\button\MaterialButton_OnCheckedChangeListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\com\google\android\material\card\MaterialCardView_OnCheckedChangeListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\com\google\android\material\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\com\google\android\material\datepicker\MaterialPickerOnPositiveButtonClickListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\com\google\android\material\internal\ViewUtils_OnApplyWindowInsetsListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\com\google\android\material\navigation\NavigationBarView_OnItemReselectedListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\com\google\android\material\navigation\NavigationBarView_OnItemSelectedListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\com\google\android\material\navigation\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\com\google\android\material\shape\ShapeAppearancePathProvider_PathListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\com\google\android\material\slider\BaseOnChangeListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\com\google\android\material\slider\BaseOnSliderTouchListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\com\google\android\material\tabs\TabLayout_BaseOnTabSelectedListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\com\google\android\material\textfield\TextInputLayout_OnEditTextAttachedListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\com\google\android\material\textfield\TextInputLayout_OnEndIconChangedListenerImplementor.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\MonoPackageManager_Resources.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\xamarin\essentials\fileProvider.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\bin\packaged_resources
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\src\com\mycompanypac\amazon\R.java
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\compressed_assemblies.arm64-v8a.s
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\compressed_assemblies.armeabi-v7a.s
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\compressed_assemblies.x86.s
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\compressed_assemblies.x86_64.s
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\typemaps.arm64-v8a.o
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\typemaps.armeabi-v7a.o
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\typemaps.x86.o
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\typemaps.x86_64.o
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\environment.arm64-v8a.o
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\environment.armeabi-v7a.o
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\environment.x86.o
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\environment.x86_64.o
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\compressed_assemblies.arm64-v8a.o
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\compressed_assemblies.armeabi-v7a.o
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\compressed_assemblies.x86.o
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\compressed_assemblies.x86_64.o
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\app_shared_libraries\arm64-v8a\libxamarin-app.so
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\app_shared_libraries\x86\libxamarin-app.so
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\app_shared_libraries\x86_64\libxamarin-app.so
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\android\bin\classes.dex
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\stamp\_CleanIntermediateIfNeeded.stamp
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\stamp\_CompileToDalvik.stamp
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\stamp\_ConvertCustomView.stamp
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\stamp\_ConvertResourcesCases.stamp
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\stamp\_GenerateJavaStubs.stamp
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\stamp\_GeneratePackageManagerJava.stamp
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.Android\obj\Debug\120\stamp\_ResolveLibraryProjectImports.stamp
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\bin\Debug\Amazon.Android.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\bin\Debug\Amazon.Android.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\bin\Debug\com.MyCompanyPac.amazon.apk
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\bin\Debug\com.MyCompanyPac.amazon.aab
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\bin\Debug\com.MyCompanyPac.amazon-Signed.aab
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\bin\Debug\com.MyCompanyPac.amazon-Signed.apk
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\bin\Debug\com.MyCompanyPac.amazon-Signed.apk.idsig
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\bin\Debug\Amazon.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\bin\Debug\Amazon.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\bin\Debug\ar\Amazon.resources.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\MonoAndroid,Version=v12.0.AssemblyAttributes.cs
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\build.props
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\adb.props
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\Amazon.Android.csproj.AssemblyReference.cache
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\stamp\_BuildLibraryImportsCache.stamp
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res.flag
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\lp\3\jl\files.cache
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\lp\4\jl\files.cache
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\lp\58\jl\files.cache
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\lp\59\jl\files.cache
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\lp\61\jl\files.cache
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\lp\67\jl\files.cache
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\lp\68\jl\files.cache
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\lp\69\jl\files.cache
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\lp\73\jl\files.cache
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\lp\74\jl\files.cache
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\lp\75\jl\files.cache
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\lp\80\jl\files.cache
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\lp\81\jl\files.cache
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\lp\85\jl\files.cache
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\lp\91\jl\files.cache
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\lp\93\jl\files.cache
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\lp\94\jl\files.cache
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\lp\95\jl\files.cache
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\lp\96\jl\files.cache
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\lp\97\jl\files.cache
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\lp\98\jl\files.cache
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\lp\99\jl\files.cache
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\lp\101\jl\files.cache
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\lp\102\jl\files.cache
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\lp\103\jl\files.cache
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\lp\104\jl\files.cache
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\lp\105\jl\files.cache
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\lp\110\jl\files.cache
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\R.txt
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\R.cs.flag
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\Amazon.Android.csproj.CoreCompileInputs.cache
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\Amazon.Android.csproj.CopyComplete
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\Amazon.Android.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\Amazon.Android.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\bin\com.MyCompanyPac.amazon.apk
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\bin\base.zip
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\bin\com.MyCompanyPac.amazon.aab
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\bin\com.MyCompanyPac.amazon.apks
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\values\styles.xml
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\values\colors.xml
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-anydpi-v26\icon.xml
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-anydpi-v26\icon_round.xml
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-hdpi\icon.png
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-hdpi\launcher_foreground.png
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-mdpi\icon.png
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-mdpi\launcher_foreground.png
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xhdpi\icon.png
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xhdpi\launcher_foreground.png
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xxhdpi\icon.png
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xxhdpi\launcher_foreground.png
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xxxhdpi\icon.png
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xxxhdpi\launcher_foreground.png
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\drawable\classic.png
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\drawable\icon.png
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\drawable\splash.png
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xxxhdpi\splash.png
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xxhdpi\splash.png
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xhdpi\splash.png
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-mdpi\splash.png
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-hdpi\splash.png
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\drawable\elegantcol.png
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\drawable\leatherbag.png
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\drawable\mobilebanner.jpg
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\drawable\tvbanner.jpg
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\drawable\cartbanner.jpg
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-anydpi-v26\classic.png
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-anydpi-v26\elegantcol.png
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-anydpi-v26\leatherbag.png
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-anydpi-v26\mobilebanner.jpg
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-anydpi-v26\tvbanner.jpg
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-anydpi-v26\cartbanner.jpg
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-hdpi\classic.png
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-hdpi\elegantcol.png
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-hdpi\leatherbag.png
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-hdpi\mobilebanner.jpg
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-hdpi\tvbanner.jpg
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-hdpi\cartbanner.jpg
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-mdpi\classic.png
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-mdpi\elegantcol.png
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-mdpi\leatherbag.png
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-mdpi\mobilebanner.jpg
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-mdpi\tvbanner.jpg
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-mdpi\cartbanner.jpg
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xhdpi\classic.png
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xhdpi\elegantcol.png
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xhdpi\leatherbag.png
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xhdpi\mobilebanner.jpg
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xhdpi\tvbanner.jpg
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xhdpi\cartbanner.jpg
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xxhdpi\classic.png
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xxhdpi\elegantcol.png
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xxhdpi\leatherbag.png
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xxhdpi\mobilebanner.jpg
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xxhdpi\tvbanner.jpg
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xxhdpi\cartbanner.jpg
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xxxhdpi\classic.png
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xxxhdpi\elegantcol.png
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xxxhdpi\leatherbag.png
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xxxhdpi\mobilebanner.jpg
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xxxhdpi\tvbanner.jpg
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xxxhdpi\cartbanner.jpg
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\drawable\emptycart.png
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-anydpi-v26\emptycart.png
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-hdpi\emptycart.png
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-mdpi\emptycart.png
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xhdpi\emptycart.png
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xxhdpi\emptycart.png
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\res\mipmap-xxxhdpi\emptycart.png
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\uploadflags.txt
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\resolvedassemblies.hash
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Akavache.Core.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Amazon.Android.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Amazon.Android.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Amazon.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Amazon.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\FormsViewGroup.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\FormsViewGroup.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\FreshIOC.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\FreshMvvm.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Java.Interop.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Mono.Android.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Mono.Android.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Mono.Security.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Mono.Security.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\mscorlib.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\mscorlib.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\netstandard.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Newtonsoft.Json.Bson.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Newtonsoft.Json.Bson.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Newtonsoft.Json.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Plugin.Settings.Abstractions.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Plugin.Settings.Abstractions.dll.mdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Plugin.Settings.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Plugin.Settings.dll.mdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Polly.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Polly.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Splat.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Syncfusion.Core.XForms.Android.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Syncfusion.Core.XForms.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Syncfusion.Licensing.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Syncfusion.SfNavigationDrawer.Android.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Syncfusion.SfNavigationDrawer.XForms.Android.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Syncfusion.SfNavigationDrawer.XForms.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Collections.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.ComponentModel.Composition.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.ComponentModel.Composition.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Core.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Core.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Data.DataSetExtensions.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Data.DataSetExtensions.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Data.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Data.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Drawing.Common.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Drawing.Common.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.IO.Compression.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.IO.Compression.FileSystem.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.IO.Compression.FileSystem.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.IO.Compression.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Linq.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Net.Http.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Net.Http.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Numerics.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Numerics.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Numerics.Vectors.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Numerics.Vectors.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Reactive.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Reflection.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Reflection.Extensions.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Resources.ResourceManager.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Runtime.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Runtime.Extensions.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Runtime.InteropServices.WindowsRuntime.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Runtime.Serialization.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Runtime.Serialization.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.ServiceModel.Internals.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.ServiceModel.Internals.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Text.Encoding.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Text.RegularExpressions.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Threading.Tasks.Extensions.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Transactions.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Transactions.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Web.Services.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Web.Services.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Xml.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Xml.Linq.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Xml.Linq.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\System.Xml.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Activity.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Activity.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Annotation.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Annotation.Experimental.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Annotation.Experimental.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Annotation.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.AppCompat.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.AppCompat.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Arch.Core.Common.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Arch.Core.Common.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Browser.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Browser.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.CardView.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.CardView.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Collection.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Collection.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Concurrent.Futures.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Concurrent.Futures.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.ConstraintLayout.Core.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.ConstraintLayout.Core.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.ConstraintLayout.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.ConstraintLayout.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.CoordinatorLayout.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.CoordinatorLayout.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Core.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Core.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.CursorAdapter.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.CursorAdapter.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.CustomView.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.CustomView.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.DocumentFile.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.DocumentFile.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.DrawerLayout.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.DrawerLayout.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.DynamicAnimation.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.DynamicAnimation.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Fragment.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Fragment.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Interpolator.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Interpolator.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Legacy.Support.V4.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Legacy.Support.V4.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.Common.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.Common.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Loader.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Loader.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.LocalBroadcastManager.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.LocalBroadcastManager.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Media.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Media.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.MultiDex.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.MultiDex.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Navigation.Common.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Navigation.Common.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Navigation.Runtime.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Navigation.Runtime.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Navigation.UI.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Navigation.UI.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Preference.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Preference.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Print.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Print.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.RecyclerView.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.RecyclerView.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.SavedState.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.SavedState.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.SlidingPaneLayout.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.SlidingPaneLayout.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Tracing.Tracing.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Tracing.Tracing.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Transition.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Transition.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.VectorDrawable.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.VectorDrawable.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.VersionedParcelable.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.VersionedParcelable.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.ViewPager.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.ViewPager.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.ViewPager2.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.ViewPager2.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.CommunityToolkit.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.Essentials.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.Essentials.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.Forms.Core.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.Forms.Core.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.Forms.PancakeView.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.Forms.Platform.Android.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.Forms.Platform.Android.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.Forms.Platform.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.Forms.Xaml.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.Forms.Xaml.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.Google.Android.Material.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.Google.Android.Material.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\Xamarin.Google.Guava.ListenableFuture.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\typemaps.arm64-v8a.s
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\typemaps.armeabi-v7a.s
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\typemaps.x86.s
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\typemaps.x86_64.s
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\typemaps.armeabi-v7a-shared.inc
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\typemaps.shared.inc
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\AndroidManifest.xml
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\AndroidManifest.xml
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\__environment__.txt
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\MonoRuntimeProvider.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\assets\machine.config
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\bin\mono.android.jar
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\static.flag
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\buildid.txt
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\environment.arm64-v8a.s
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\environment.armeabi-v7a.s
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\environment.x86.s
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\environment.x86_64.s
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\annotation\experimental\R.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\appcompat\R.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\appcompat\resources\R.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\appcompat\widget\Toolbar_NavigationOnClickEventDispatcher.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\browser\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\browser\R.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\cardview\R.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\constraintlayout\widget\R.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\coordinatorlayout\R.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\core\R.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\drawerlayout\R.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\fragment\R.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\lifecycle\runtime\R.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\lifecycle\viewmodel\R.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\media\R.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\navigation\common\R.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\navigation\R.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\navigation\ui\R.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\preference\R.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\recyclerview\R.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\savedstate\R.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\swiperefreshlayout\R.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\transition\R.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\androidx\viewpager2\R.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\com\google\android\material\R.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\com\google\android\material\snackbar\Snackbar_SnackbarActionClickImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc640879981a986d658b\SfGradientViewRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc6414252951f3f66c67\CarouselViewAdapter_2.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc642e1c7a98bdb5c44a\AutoFitTextureView.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc642e1c7a98bdb5c44a\CameraCaptureListener.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc642e1c7a98bdb5c44a\CameraCaptureStateListener.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc642e1c7a98bdb5c44a\CameraFragment.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc642e1c7a98bdb5c44a\CameraStateListener.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc642e1c7a98bdb5c44a\CameraViewRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc642e1c7a98bdb5c44a\DrawingViewRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc642e1c7a98bdb5c44a\FormsVideoView.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc642e1c7a98bdb5c44a\ImageAvailableListener.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc642e1c7a98bdb5c44a\MediaElementRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc642e1c7a98bdb5c44a\PopupRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc642e1c7a98bdb5c44a\SemanticOrderViewRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc642e1c7a98bdb5c44a\SnackBar_SnackBarCallback.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc642e1c7a98bdb5c44a\TextSwitcherRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc642e1c7a98bdb5c44a\ThumbFrameRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64396a3fe5f8138e3f\CustomTabsServiceConnectionImpl.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64396a3fe5f8138e3f\KeepAliveService.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643ddf594df781e5ec\SfBorderRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\AccessibilityDelegateAutomationId.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ContainerView.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler_CustomLocalStateData.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EllipseRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EllipseView.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FlyoutPageContainer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FlyoutPageRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FlyoutPageRendererNonAppCompat.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable_GradientShaderFactory.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\LineRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\LineView.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PageContainer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PathRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PathView.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PolygonRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PolygonView.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PolylineRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PolylineView.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\RadioButtonRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\RectangleRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\RectView.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\RecyclerViewContainer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShapeRenderer_2.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShapeView.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellFlyoutLayout.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc644103bb497e895a1b\InputLayoutBorder.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc644103bb497e895a1b\InputLayoutBorderRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc644103bb497e895a1b\InputLayoutClearButtonViewRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc644103bb497e895a1b\InputLayoutClearButtonViewRenderer_GestureListener.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc644103bb497e895a1b\InputLayoutToggleViewRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc644103bb497e895a1b\InputLayoutToggleViewRenderer_GestureListener.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc644103bb497e895a1b\SfTextInputLayoutRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64515ee83f00766c60\PlatformShadowEffect_ShadowOutlineProvider.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64515ee83f00766c60\PlatformTouchEffect_AccessibilityListener.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64515ee83f00766c60\SemanticEffectRouter_SemanticAccessibilityDelegate.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64515ee83f00766c60\VisualFeedbackEffectRouter_FastRendererOnLayoutChangeListener.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc6459465d16aed70698\DrawerContentView.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc6459465d16aed70698\DrawerLayout.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc6459465d16aed70698\FooterView.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc6459465d16aed70698\HeaderView.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc6459465d16aed70698\MainContentView.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc6459465d16aed70698\SeparatorView.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc6459465d16aed70698\SfNavigationDrawer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc6459fe30e8fdccb7f6\MainActivity.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc6459fe30e8fdccb7f6\Splash.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc645b8ccbad6ecd7dce\SideMenuViewRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc647c0f57ca5ddbf08e\SfNavigationDrawerRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\ClipboardChangeListener.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\Connectivity_EssentialsNetworkCallback.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\IntermediateActivity.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\Listener.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorCallbackActivity.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorIntermediateActivity.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64a25b61d9f8ee364f\FloatArrayEvaluator.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64a25b61d9f8ee364f\RectEvaluator.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64a25b61d9f8ee364f\TransitionUtils.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64a25b61d9f8ee364f\TransitionUtils_MatrixEvaluator.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64ee486da937c010f4\FrameRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64ee486da937c010f4\ImageRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64ee486da937c010f4\LabelRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64eeb36180fe6023e2\GestureListener.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64eeb36180fe6023e2\SfEffectsViewRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64f606ab658bf2774f\SfShimmerRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64f606ab658bf2774f\ShimmerViewRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64f8908e42fa42e603\PancakeDrawable.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64f8908e42fa42e603\PancakeViewRenderer.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\crc64f8908e42fa42e603\RoundedCornerOutlineProvider.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\activity\contextaware\OnContextAvailableListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\appcompat\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\appcompat\app\ActionBar_OnNavigationListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\appcompat\app\ActionBar_TabListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\appcompat\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\appcompat\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\appcompat\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\appcompat\widget\MenuItemHoverListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\appcompat\widget\PopupMenu_OnDismissListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\appcompat\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\appcompat\widget\SearchView_OnCloseListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\appcompat\widget\SearchView_OnQueryTextListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\appcompat\widget\SearchView_OnSuggestionListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\appcompat\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\appcompat\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\appcompat\widget\ViewStubCompat_OnInflateListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\asynclayoutinflater\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\constraintlayout\motion\widget\MotionLayout_TransitionListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\constraintlayout\widget\SharedValues_SharedValuesListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\core\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\core\os\CancellationSignal_OnCancelListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\core\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\core\view\ActionProvider_VisibilityListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\core\view\DragStartHelper_OnDragStartListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\core\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\core\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\core\view\OnApplyWindowInsetsListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\core\view\OnReceiveContentListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\core\view\ViewPropertyAnimatorListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\core\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\core\view\WindowInsetsControllerCompat_OnControllableInsetsChangedListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\core\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\drawerlayout\widget\DrawerLayout_DrawerListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\dynamicanimation\animation\DynamicAnimation_OnAnimationEndListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\dynamicanimation\animation\DynamicAnimation_OnAnimationUpdateListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\fragment\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\fragment\app\FragmentOnAttachListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\fragment\app\FragmentResultListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\loader\content\Loader_OnLoadCanceledListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\loader\content\Loader_OnLoadCompleteListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\navigation\NavController_OnDestinationChangedListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\navigation\ui\AppBarConfiguration_OnNavigateUpListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\preference\EditTextPreference_OnBindEditTextListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\preference\PreferenceGroup_OnExpandButtonClickListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\preference\PreferenceManager_OnDisplayPreferenceDialogListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\preference\PreferenceManager_OnNavigateToScreenListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\preference\PreferenceManager_OnPreferenceTreeClickListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\preference\Preference_OnPreferenceChangeListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\preference\Preference_OnPreferenceClickListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\recyclerview\widget\AsyncListDiffer_ListListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\recyclerview\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnItemTouchListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\recyclerview\widget\RecyclerView_RecyclerListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\slidingpanelayout\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\swiperefreshlayout\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\transition\Transition_TransitionListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\viewpager\widget\ViewPager_OnAdapterChangeListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\androidx\viewpager\widget\ViewPager_OnPageChangeListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\android\app\ApplicationRegistration.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\com\google\android\material\appbar\AppBarLayout_OnOffsetChangedListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\com\google\android\material\behavior\SwipeDismissBehavior_OnDismissListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\com\google\android\material\button\MaterialButtonToggleGroup_OnButtonCheckedListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\com\google\android\material\button\MaterialButton_OnCheckedChangeListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\com\google\android\material\card\MaterialCardView_OnCheckedChangeListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\com\google\android\material\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\com\google\android\material\datepicker\MaterialPickerOnPositiveButtonClickListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\com\google\android\material\internal\ViewUtils_OnApplyWindowInsetsListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\com\google\android\material\navigation\NavigationBarView_OnItemReselectedListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\com\google\android\material\navigation\NavigationBarView_OnItemSelectedListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\com\google\android\material\navigation\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\com\google\android\material\shape\ShapeAppearancePathProvider_PathListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\com\google\android\material\slider\BaseOnChangeListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\com\google\android\material\slider\BaseOnSliderTouchListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\com\google\android\material\tabs\TabLayout_BaseOnTabSelectedListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\com\google\android\material\textfield\TextInputLayout_OnEditTextAttachedListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\com\google\android\material\textfield\TextInputLayout_OnEndIconChangedListenerImplementor.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\mono\MonoPackageManager_Resources.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\xamarin\essentials\fileProvider.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\bin\packaged_resources
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\src\com\mycompanypac\amazon\R.java
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\compressed_assemblies.arm64-v8a.s
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\compressed_assemblies.armeabi-v7a.s
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\compressed_assemblies.x86.s
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\compressed_assemblies.x86_64.s
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\typemaps.arm64-v8a.o
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\typemaps.armeabi-v7a.o
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\typemaps.x86.o
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\typemaps.x86_64.o
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\environment.arm64-v8a.o
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\environment.armeabi-v7a.o
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\environment.x86.o
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\environment.x86_64.o
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\compressed_assemblies.arm64-v8a.o
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\compressed_assemblies.armeabi-v7a.o
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\compressed_assemblies.x86.o
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\compressed_assemblies.x86_64.o
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\app_shared_libraries\arm64-v8a\libxamarin-app.so
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\app_shared_libraries\x86\libxamarin-app.so
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\app_shared_libraries\x86_64\libxamarin-app.so
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\android\bin\classes.dex
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\stamp\_CleanIntermediateIfNeeded.stamp
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\stamp\_CompileToDalvik.stamp
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\stamp\_ConvertCustomView.stamp
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\stamp\_ConvertResourcesCases.stamp
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\stamp\_GenerateJavaStubs.stamp
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\stamp\_GeneratePackageManagerJava.stamp
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.Android\obj\Debug\120\stamp\_ResolveLibraryProjectImports.stamp

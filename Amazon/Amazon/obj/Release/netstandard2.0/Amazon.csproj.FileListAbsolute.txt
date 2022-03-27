@@ -1,0 +1,67 @@
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon\bin\Release\netstandard2.0\Amazon.deps.json
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon\bin\Release\netstandard2.0\Amazon.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon\bin\Release\netstandard2.0\ref\Amazon.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon\bin\Release\netstandard2.0\Amazon.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon\bin\Release\netstandard2.0\ar\Amazon.resources.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon\obj\Release\netstandard2.0\Amazon.Resources.AppResources.resources
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon\obj\Release\netstandard2.0\Amazon.Resources.AppResources.ar.resources
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon\obj\Release\netstandard2.0\Amazon.csproj.GenerateResource.cache
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon\obj\Release\netstandard2.0\Amazon.GeneratedMSBuildEditorConfig.editorconfig
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon\obj\Release\netstandard2.0\App.xaml.g.cs
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon\obj\Release\netstandard2.0\Controls\CustomPage.xaml.g.cs
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon\obj\Release\netstandard2.0\Controls\ToolBar.xaml.g.cs
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon\obj\Release\netstandard2.0\Pages\AboutUsPage.xaml.g.cs
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon\obj\Release\netstandard2.0\Pages\CartPage.xaml.g.cs
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon\obj\Release\netstandard2.0\Pages\FavouritePage.xaml.g.cs
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon\obj\Release\netstandard2.0\Pages\ItemDetailsPage.xaml.g.cs
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon\obj\Release\netstandard2.0\Pages\ItemsListPage.xaml.g.cs
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon\obj\Release\netstandard2.0\Pages\LoginPage.xaml.g.cs
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon\obj\Release\netstandard2.0\Pages\MainPage.xaml.g.cs
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon\obj\Release\netstandard2.0\Pages\RegisterPage.xaml.g.cs
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon\obj\Release\netstandard2.0\Pages\SearchPage.xaml.g.cs
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon\obj\Release\netstandard2.0\Pages\SettingsPage.xaml.g.cs
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon\obj\Release\netstandard2.0\Themes\Dark.xaml.g.cs
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon\obj\Release\netstandard2.0\Themes\GeneralStyle.xaml.g.cs
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon\obj\Release\netstandard2.0\Themes\Light.xaml.g.cs
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon\obj\Release\netstandard2.0\Amazon.AssemblyInfoInputs.cache
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon\obj\Release\netstandard2.0\Amazon.AssemblyInfo.cs
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon\obj\Release\netstandard2.0\Amazon.csproj.CoreCompileInputs.cache
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon\obj\Release\netstandard2.0\XamlC.stamp
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon\obj\Release\netstandard2.0\ar\Amazon.resources.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon\obj\Release\netstandard2.0\Amazon.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon\obj\Release\netstandard2.0\ref\Amazon.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon\obj\Release\netstandard2.0\Amazon.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon\bin\Release\netstandard2.0\Amazon.deps.json
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon\bin\Release\netstandard2.0\Amazon.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon\bin\Release\netstandard2.0\ref\Amazon.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon\bin\Release\netstandard2.0\Amazon.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon\bin\Release\netstandard2.0\ar\Amazon.resources.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon\obj\Release\netstandard2.0\Amazon.csproj.AssemblyReference.cache
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon\obj\Release\netstandard2.0\Amazon.Resources.AppResources.resources
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon\obj\Release\netstandard2.0\Amazon.Resources.AppResources.ar.resources
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon\obj\Release\netstandard2.0\Amazon.csproj.GenerateResource.cache
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon\obj\Release\netstandard2.0\Amazon.GeneratedMSBuildEditorConfig.editorconfig
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon\obj\Release\netstandard2.0\App.xaml.g.cs
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon\obj\Release\netstandard2.0\Controls\CustomPage.xaml.g.cs
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon\obj\Release\netstandard2.0\Controls\ToolBar.xaml.g.cs
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon\obj\Release\netstandard2.0\Pages\AboutUsPage.xaml.g.cs
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon\obj\Release\netstandard2.0\Pages\CartPage.xaml.g.cs
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon\obj\Release\netstandard2.0\Pages\FavouritePage.xaml.g.cs
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon\obj\Release\netstandard2.0\Pages\ItemDetailsPage.xaml.g.cs
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon\obj\Release\netstandard2.0\Pages\ItemsListPage.xaml.g.cs
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon\obj\Release\netstandard2.0\Pages\LoginPage.xaml.g.cs
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon\obj\Release\netstandard2.0\Pages\MainPage.xaml.g.cs
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon\obj\Release\netstandard2.0\Pages\RegisterPage.xaml.g.cs
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon\obj\Release\netstandard2.0\Pages\SearchPage.xaml.g.cs
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon\obj\Release\netstandard2.0\Pages\SettingsPage.xaml.g.cs
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon\obj\Release\netstandard2.0\Themes\Dark.xaml.g.cs
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon\obj\Release\netstandard2.0\Themes\GeneralStyle.xaml.g.cs
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon\obj\Release\netstandard2.0\Themes\Light.xaml.g.cs
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon\obj\Release\netstandard2.0\Amazon.AssemblyInfoInputs.cache
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon\obj\Release\netstandard2.0\Amazon.AssemblyInfo.cs
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon\obj\Release\netstandard2.0\Amazon.csproj.CoreCompileInputs.cache
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon\obj\Release\netstandard2.0\XamlC.stamp
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon\obj\Release\netstandard2.0\ar\Amazon.resources.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon\obj\Release\netstandard2.0\Amazon.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon\obj\Release\netstandard2.0\ref\Amazon.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon\obj\Release\netstandard2.0\Amazon.pdb

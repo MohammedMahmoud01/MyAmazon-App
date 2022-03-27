@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Controls:CustomPage  xmlns:Controls="clr-namespace:Amazon.Controls"
+                      xmlns="http://xamarin.com/schemas/2014/forms"
+                      xmlns:Res="clr-namespace:Amazon.Resources"
+                      xmlns:Helpers="clr-namespace:FontAwesome"
+                      xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:yummy="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"
+                      x:Class="Amazon.Pages.ItemsListPage"
+                      BackgroundColor="{DynamicResource BgColor}"
+                      x:Name="myItemsList">
+    <ContentPage.Content>
+
+        <ScrollView VerticalScrollBarVisibility="Never">
+            <Grid  RowSpacing="20">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto"/>
+                </Grid.RowDefinitions>
+
+                <Controls:ToolBar HasCartBar="False" Title="{Res:Translate Text=lblItemListPage}" HasImgBar="False" HasBackButton="True"/>
+
+                <StackLayout Grid.Row="1" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
+                    <Label Text="{Res:Translate Text=lblElectronicsProducts}" FontFamily="RobotoBold" />
+                </StackLayout>
+
+                <Grid Grid.Row="2"  VerticalOptions="StartAndExpand">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto" />
+                    </Grid.RowDefinitions>
+
+                    <CollectionView HorizontalOptions="FillAndExpand" ItemsSource="{Binding lstItems}">
+
+                        <CollectionView.ItemsLayout>
+                            <LinearItemsLayout Orientation="Vertical" ItemSpacing="15" />
+                        </CollectionView.ItemsLayout>
+
+                        <CollectionView.ItemTemplate>
+                            <DataTemplate>
+                                <Grid RowSpacing="0" ColumnSpacing="15"  Padding="10,10,10,0">
+
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="auto"  />
+                                    </Grid.RowDefinitions>
+
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="1*" />
+                                        <ColumnDefinition Width="1.7*" />
+                                    </Grid.ColumnDefinitions>
+
+                                    <yummy:PancakeView    VerticalOptions="Start" Padding="10"
+                                           CornerRadius="10" 
+                                                        WidthRequest="150" HeightRequest="190">
+                                        <yummy:PancakeView.Border>
+                                            <yummy:Border Thickness="2">
+                                                <yummy:Border.GradientStops>
+                                                    <yummy:GradientStopCollection>
+                                                        <yummy:GradientStop Color="#E4B889" Offset="0.2" />
+                                                        <yummy:GradientStop Color="#AD88BC" Offset="1" />
+                                                    </yummy:GradientStopCollection>
+                                                </yummy:Border.GradientStops>
+                                            </yummy:Border>
+                                        </yummy:PancakeView.Border>
+
+
+                                        <Image Source="{Binding ImageName, StringFormat='http://mohammedmahmoud-001-site1.htempurl.com/Uploads/{0}'}" Aspect="Fill" />
+                                        
+                                    </yummy:PancakeView>
+
+                                    <StackLayout Spacing="15" HorizontalOptions="CenterAndExpand"   Grid.Column="1" Margin="15,15,8,0">
+                                        <Label Text="{Binding ItemName}" TextColor="{DynamicResource TextColor}" HorizontalOptions="CenterAndExpand" />
+                                        <Label Text="{Binding SalesPrice , StringFormat='${0}'}" TextColor="{DynamicResource TextColor}" HorizontalOptions="CenterAndExpand" />
+                                        <Label Text="{Binding CategoryName}" TextColor="{DynamicResource TextColor}" HorizontalOptions="CenterAndExpand" />
+                                        <Label Text="{Binding SubCategoryName}" TextColor="{DynamicResource TextColor}" HorizontalOptions="CenterAndExpand" />
+                                        
+                                        <StackLayout Orientation="Horizontal"  HorizontalOptions="CenterAndExpand">
+                                            <ImageButton>
+                                                <ImageButton.Source>
+                                                    <FontImageSource Color="{DynamicResource TextColor}" FontFamily="SolidIcon" Size="18"  Glyph="" />
+                                                </ImageButton.Source>
+                                            </ImageButton>
+
+                                            <ImageButton>
+                                                <ImageButton.Source>
+                                                    <FontImageSource Color="{DynamicResource TextColor}" FontFamily="SolidIcon" Size="18"  Glyph="" />
+                                                </ImageButton.Source>
+                                            </ImageButton>
+
+                                            <ImageButton>
+                                                <ImageButton.Source>
+                                                    <FontImageSource Color="{DynamicResource TextColor}" FontFamily="SolidIcon" Size="18"  Glyph="" />
+                                                </ImageButton.Source>
+                                            </ImageButton>
+
+                                            <ImageButton>
+                                                <ImageButton.Source>
+                                                    <FontImageSource Color="{DynamicResource TextColor}" FontFamily="SolidIcon" Size="18"  Glyph="" />
+                                                </ImageButton.Source>
+                                            </ImageButton>
+
+                                            <ImageButton>
+                                                <ImageButton.Source>
+                                                    <FontImageSource Color="{DynamicResource TextColor}" FontFamily="SolidIcon" Size="18"  Glyph="{Static Helpers:FontAwesomeIcons.StarHalf}" />
+                                                </ImageButton.Source>
+                                            </ImageButton>
+                                        </StackLayout>
+
+                                    </StackLayout>
+
+                                    <BoxView  Grid.ColumnSpan="2" VerticalOptions="EndAndExpand" 
+                                             Style="{DynamicResource DefaultBoxView}" />
+
+
+                                    <Grid.GestureRecognizers>
+                                        <TapGestureRecognizer Command="{Binding BindingContext.SelectedItem , Source={x:Reference myItemsList}}" 
+                                                        CommandParameter="{Binding}"/>
+                                    </Grid.GestureRecognizers>
+
+                                </Grid>
+
+                            </DataTemplate>
+                        </CollectionView.ItemTemplate>
+
+                    </CollectionView>
+
+                </Grid>
+                
+                <Grid Grid.Row="3" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+                    <Image Source="tvBanner.jpg"  HeightRequest="120" Aspect="Fill" HorizontalOptions="FillAndExpand"/>
+                    <StackLayout Margin="0,20,10,0" Spacing="15" HorizontalOptions="EndAndExpand" VerticalOptions="Center">
+                        <Label Text="Tvs" TextColor="{DynamicResource TextColor}"  FontSize="12" FontFamily="RobotoThin"/>
+                        <BoxView BackgroundColor="White" HorizontalOptions="Start" VerticalOptions="Start" HeightRequest="1" WidthRequest="50"/>
+                        <StackLayout>
+                            <Label Text="Coming Soon" TextColor="{DynamicResource TextColor}"  FontSize="25" FontFamily="PlayFairBold"/>
+                            <Label Text="" TextColor="{DynamicResource TextColor}"  FontSize="12" FontFamily="RobotoLight"/>
+                        </StackLayout>
+                    </StackLayout>
+                </Grid>
+
+                <Grid Grid.Row="4" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+                    <Image Source="classic.png"  HeightRequest="120" Aspect="Fill" HorizontalOptions="FillAndExpand"/>
+                    <StackLayout Margin="0,20,10,0" Spacing="15" HorizontalOptions="EndAndExpand" VerticalOptions="Center">
+                        <Label Text="Tvs" TextColor="{DynamicResource TextColor}"  FontSize="12" FontFamily="RobotoThin"/>
+                        <BoxView BackgroundColor="White" HorizontalOptions="Start" VerticalOptions="Start" HeightRequest="1" WidthRequest="50"/>
+                        <StackLayout>
+                            <Label Text="Coming Soon" TextColor="{DynamicResource TextColor}"  FontSize="25" FontFamily="PlayFairBold"/>
+                            <Label Text="" TextColor="{DynamicResource TextColor}"  FontSize="12" FontFamily="RobotoLight"/>
+                        </StackLayout>
+                    </StackLayout>
+                </Grid>
+
+            </Grid>
+        </ScrollView>
+
+    </ContentPage.Content>
+</Controls:CustomPage>

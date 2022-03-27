@@ -1,0 +1,170 @@
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\Amazon.iOS.exe
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\Amazon.iOS.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\Akavache.Core.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\FreshIOC.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\FreshMvvm.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\Newtonsoft.Json.Bson.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\Newtonsoft.Json.Bson.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\Polly.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\Polly.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\Splat.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\Syncfusion.Licensing.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\Syncfusion.Core.XForms.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\Syncfusion.Core.XForms.iOS.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\Syncfusion.SfNavigationDrawer.XForms.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\Syncfusion.SfNavigationDrawer.XForms.iOS.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\Syncfusion.SfNavigationDrawer.iOS.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\System.Reactive.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\Plugin.Settings.Abstractions.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\Plugin.Settings.Abstractions.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\Plugin.Settings.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\Xamarin.CommunityToolkit.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\Xamarin.Forms.PancakeView.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\Amazon.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\Amazon.pdb
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\bin\iPhone\Debug\ar\Amazon.resources.dll
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\obj\iPhone\Debug\actool\_ProcessedImageAssetsPath.items
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\obj\iPhone\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\obj\iPhone\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\obj\iPhone\Debug\_ProcessedBundleResourcesPath.items
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\obj\iPhone\Debug\_ProcessedContentPath.items
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\obj\iPhone\Debug\optimized\
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\obj\iPhone\Debug\Amazon.iOS.csproj.AssemblyReference.cache
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\obj\iPhone\Debug\Amazon.iOS.csproj.CoreCompileInputs.cache
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\obj\iPhone\Debug\Amazon.iOS.csproj.CopyComplete
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\obj\iPhone\Debug\Amazon.iOS.exe
+F:\MyWork\Xamrin\Amazon\Amazon\Amazon.iOS\obj\iPhone\Debug\Amazon.iOS.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\Amazon.iOS.exe
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\Amazon.iOS.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\Akavache.Core.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\FreshIOC.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\FreshMvvm.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\Newtonsoft.Json.Bson.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\Newtonsoft.Json.Bson.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\Polly.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\Polly.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\Splat.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\Syncfusion.Licensing.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\Syncfusion.Core.XForms.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\Syncfusion.Core.XForms.iOS.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\Syncfusion.SfNavigationDrawer.XForms.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\Syncfusion.SfNavigationDrawer.XForms.iOS.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\Syncfusion.SfNavigationDrawer.iOS.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\System.Reactive.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\Plugin.Settings.Abstractions.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\Plugin.Settings.Abstractions.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\Plugin.Settings.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\Xamarin.CommunityToolkit.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\Xamarin.Forms.PancakeView.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\Amazon.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\Amazon.pdb
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\bin\iPhone\Debug\ar\Amazon.resources.dll
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\obj\iPhone\Debug\actool\_ProcessedImageAssetsPath.items
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\obj\iPhone\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\obj\iPhone\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\obj\iPhone\Debug\_ProcessedBundleResourcesPath.items
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\obj\iPhone\Debug\_ProcessedContentPath.items
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\obj\iPhone\Debug\optimized\
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\obj\iPhone\Debug\Amazon.iOS.csproj.AssemblyReference.cache
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\obj\iPhone\Debug\Amazon.iOS.csproj.CoreCompileInputs.cache
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\obj\iPhone\Debug\Amazon.iOS.csproj.CopyComplete
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\obj\iPhone\Debug\Amazon.iOS.exe
+F:\MyWork\Xamrin\Amazon V2\Amazon\Amazon.iOS\obj\iPhone\Debug\Amazon.iOS.pdb

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Controls:CustomPage  xmlns:Controls="clr-namespace:Amazon.Controls"
+                      xmlns="http://xamarin.com/schemas/2014/forms"
+                      xmlns:Res="clr-namespace:Amazon.Resources"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Amazon.Pages.AboutUsPage"
+                      BackgroundColor="#0E1621">
+    <Controls:CustomPage.Content>
+        
+        <ScrollView VerticalScrollBarVisibility="Never">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+
+                <Controls:ToolBar Grid.Row="0" HasBackButton="True" HasImgBar="False" HasCartBar="False"  Title="{Res:Translate Text=lblAboutUsPage}"/>
+
+                <StackLayout Padding="15,0,15,0"  Grid.Row="1" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
+                    
+                    <StackLayout  Spacing="15">
+
+                        <Image Source="icon.png" WidthRequest="80" HorizontalOptions="CenterAndExpand" HeightRequest="80" />
+
+                        <Label TextColor="White" FontSize="16" HorizontalOptions="CenterAndExpand" >
+                            <Label.FormattedText>
+                                <FormattedString>
+                                    <FormattedString.Spans>
+                                        <Span TextColor="Gray" Text="Powered by  "/>
+                                        <Span TextColor="White" Text="Mohammed Mahmoud" FontSize="20" FontAttributes="Bold"/>
+                                    </FormattedString.Spans>
+                                </FormattedString>
+                            </Label.FormattedText>
+                        </Label>
+                        <StackLayout Spacing="20" >
+                            
+                            <Label TextColor="White" Opacity="0.5">This is a small smart shop application. You can sign in to the system or Register if you don't have an account. You can add products to cart or favourite, search for product and show product in differnet way.</Label>
+
+                            <Label  FontSize="16" HorizontalTextAlignment="Center">
+                                <Label.FormattedText>
+                                    <FormattedString>
+                                        <FormattedString.Spans>
+                                            <Span TextColor="Gray" Text="Finally my best thanks to "/>
+                                            <Span TextColor="White" Text="Ali Shahin " FontSize="22" FontAttributes="Bold"/>
+                                            <Span TextColor="White" Text="Software Team Leader and Technical Consultant " ></Span>
+                                            <Span TextColor="Gray" Text="For his Courses, Knowledge and Support "/>
+                                        </FormattedString.Spans>
+                                    </FormattedString>
+                                </Label.FormattedText>
+                            </Label>
+                            
+                        </StackLayout>
+                    </StackLayout>
+                </StackLayout>
+
+            </Grid>
+        </ScrollView>
+    
+    </Controls:CustomPage.Content>
+</Controls:CustomPage>
