@@ -1,32 +1,22 @@
-# E-Commerce Mobile Application
+# 📱 E-Commerce Mobile App (Xamarin Forms + ASP.NET Core)
 
-Built with Xamarin Forms, ASP.NET Core, and SQL Server, this e-commerce mobile application is designed to deliver a comprehensive and engaging shopping experience.
+A cross-platform **mobile e-commerce application** built with Xamarin Forms and ASP.NET Core backend.  
+The app allows users to browse products, manage a shopping cart, place orders, and configure preferences.
 
-## Features
+## 🚀 Features
+- Dynamic homepage with sliders & product showcases
+- Product details with images, descriptions, and related items
+- Global search page to find products quickly
+- Shopping cart with smooth order placement
+- User settings page with customizable preferences
+- Secure login & registration
 
-### 1. Dynamic Homepage
-- Engaging homepage with sliders for promotions.
+## 🛠️ Tech Stack
+- **Mobile:** Xamarin Forms  
+- **Backend:** ASP.NET Core Web API  
+- **Database:** SQL Server  
 
-### 2. Immersive Item Details
-- Detailed product pages with high-quality images and information.
-
-### 3. Versatile Search
-- Robust search functionality to find products easily.
-
-### 4. User-Friendly Cart
-- Simplified cart for a seamless shopping experience.
-
-### 5. Customizable Settings
-- Options to tailor the app settings according to user preferences.
-
-### 6. Secure Login and Registration
-- Ensures user data security with safe login and registration processes.
-
-## Links
-
-- **GitHub Repository (API):** [API_Angular_Ecommerce](https://github.com/MohammedMahmoud01/API_Angular_Ecommerce)
-- **YouTube Demo:** [Watch the Demo](https://www.youtube.com/watch?v=65SzDQNkSzs)
-
----
-
-Explore the repository and watch the demo to experience the application. Contributions and feedback are welcome!
+## 🔗 Links
+- 💻 [Mobile App GitHub](https://github.com/MohammedMahmoud01/MyAmazon-App)  
+- ⚙️ [Backend GitHub](https://github.com/MohammedMahmoud01/API_Angular_Ecommerce)  
+- 🎥 [YouTube Demo](https://www.youtube.com/watch?v=65SzDQNkSzs)
